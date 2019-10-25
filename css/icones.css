@@ -1,0 +1,1072 @@
+.icone-sprite, .icone-aac, .tds_times .tbl-st-team>.tbl-team-AAC::before, .tds_times .tbl-away>.tbl-team-AAC::before, .tds_times .tbl-home>.tbl-team-AAC::after, .icone-abc, .tds_times .tbl-st-team>.tbl-team-ABC::before, .tds_times .tbl-away>.tbl-team-ABC::before, .tds_times .tbl-home>.tbl-team-ABC::after, .icone-ali, .sulamericana .tbl-st-team>.tbl-team-ALI::before, .sulamericana .tbl-away>.tbl-team-ALI::before, .sulamericana .tbl-home>.tbl-team-ALI::after, .icone-alm, .tds_times .tbl-st-team>.tbl-team-ALM::before, .tds_times .tbl-away>.tbl-team-ALM::before, .tds_times .tbl-home>.tbl-team-ALM::after, .icone-alt, .tds_times .tbl-st-team>.tbl-team-ALT::before, .tds_times .tbl-away>.tbl-team-ALT::before, .tds_times .tbl-home>.tbl-team-ALT::after, .icone-amg, .tds_times .tbl-st-team>.tbl-team-AMG::before, .tds_times .tbl-away>.tbl-team-AMG::before, .tds_times .tbl-home>.tbl-team-AMG::after, .icone-ana, .tds_times .tbl-st-team>.tbl-team-ANA::before, .tds_times .tbl-away>.tbl-team-ANA::before, .tds_times .tbl-home>.tbl-team-ANA::after, .icone-anp, .tds_times .tbl-st-team>.tbl-team-ANP::before, .tds_times .tbl-away>.tbl-team-ANP::before, .tds_times .tbl-home>.tbl-team-ANP::after, .icone-arrow-bow, .icone-ars, .sulamericana .tbl-st-team>.tbl-team-ARS::before, .sulamericana .tbl-away>.tbl-team-ARS::before, .sulamericana .tbl-home>.tbl-team-ARS::after, .icone-asa, .tds_times .tbl-st-team>.tbl-team-ASA::before, .tds_times .tbl-away>.tbl-team-ASA::before, .tds_times .tbl-home>.tbl-team-ASA::after, .icone-atg, .tds_times .tbl-st-team>.tbl-team-ATG::before, .tds_times .tbl-away>.tbl-team-ATG::before, .tds_times .tbl-home>.tbl-team-ATG::after, .icone-atl, .tds_times .tbl-st-team>.tbl-team-ATL::before, .tds_times .tbl-away>.tbl-team-ATL::before, .tds_times .tbl-home>.tbl-team-ATL::after, .icone-atu, .tds_times .tbl-st-team>.tbl-team-ATU::before, .tds_times .tbl-away>.tbl-team-ATU::before, .tds_times .tbl-home>.tbl-team-ATU::after, .icone-atv, .sulamericana .tbl-st-team>.tbl-team-ATV::before, .sulamericana .tbl-away>.tbl-team-ATV::before, .sulamericana .tbl-home>.tbl-team-ATV::after, .icone-aud, .tds_times .tbl-st-team>.tbl-team-AUD::before, .tds_times .tbl-away>.tbl-team-AUD::before, .tds_times .tbl-home>.tbl-team-AUD::after, .icone-ava, .tds_times .tbl-st-team>.tbl-team-AVA::before, .tds_times .tbl-away>.tbl-team-AVA::before, .tds_times .tbl-home>.tbl-team-AVA::after, .icone-aviso-escuro, .newsletter .form-error.form-group .desc_erro, .icone-aviso, .form-error .desc_erro, .icone-bah, .tds_times .tbl-st-team>.tbl-team-BAH::before, .tds_times .tbl-away>.tbl-team-BAH::before, .tds_times .tbl-home>.tbl-team-BAH::after, .icone-ben, .tds_times .tbl-st-team>.tbl-team-BEN::before, .tds_times .tbl-away>.tbl-team-BEN::before, .tds_times .tbl-home>.tbl-team-BEN::after, .icone-boa, .tds_times .tbl-st-team>.tbl-team-BOA::before, .tds_times .tbl-away>.tbl-team-BOA::before, .tds_times .tbl-home>.tbl-team-BOA::after, .icone-bol, .sulamericana .tbl-st-team>.tbl-team-BOL::before, .sulamericana .tbl-away>.tbl-team-BOL::before, .sulamericana .tbl-home>.tbl-team-BOL::after, .icone-bor, .sulamericana .tbl-st-team>.tbl-team-BOS::before, .sulamericana .tbl-away>.tbl-team-BOS::before, .sulamericana .tbl-home>.tbl-team-BOS::after, .sulamericana .icone-bos, .icone-bot, .tds_times .tbl-st-team>.tbl-team-BOT::before, .tds_times .tbl-away>.tbl-team-BOT::before, .tds_times .tbl-home>.tbl-team-BOT::after, .icone-bov, .tds_times .tbl-st-team>.tbl-team-BOV::before, .tds_times .tbl-away>.tbl-team-BOV::before, .tds_times .tbl-home>.tbl-team-BOV::after, .icone-bpb, .tds_times .tbl-st-team>.tbl-team-BPB::before, .tds_times .tbl-away>.tbl-team-BPB::before, .tds_times .tbl-home>.tbl-team-BPB::after, .icone-brg, .tds_times .tbl-st-team>.tbl-team-BRG::before, .tds_times .tbl-away>.tbl-team-BRG::before, .tds_times .tbl-home>.tbl-team-BRG::after, .icone-bru, .tds_times .tbl-st-team>.tbl-team-BRU::before, .tds_times .tbl-away>.tbl-team-BRU::before, .tds_times .tbl-home>.tbl-team-BRU::after, .icone-btn-news, .icone-btn-ok, .icone-btn-star, .icone-cal, .tds_times .tbl-st-team>.tbl-team-CAL::before, .tds_times .tbl-away>.tbl-team-CAL::before, .tds_times .tbl-home>.tbl-team-CAL::after, .icone-cam, .tds_times .tbl-st-team>.tbl-team-CAM::before, .tds_times .tbl-away>.tbl-team-CAM::before, .tds_times .tbl-home>.tbl-team-CAM::after, .icone-camera, .icone-cap, .tds_times .tbl-st-team>.tbl-team-CAP::before, .tds_times .tbl-away>.tbl-team-CAP::before, .tds_times .tbl-home>.tbl-team-CAP::after, .icone-car, .sulamericana .tbl-st-team>.tbl-team-CAR::before, .sulamericana .tbl-away>.tbl-team-CAR::before, .sulamericana .tbl-home>.tbl-team-CAR::after, .icone-cdp, .sulamericana .tbl-st-team>.tbl-team-PET::before, .sulamericana .tbl-away>.tbl-team-PET::before, .sulamericana .tbl-home>.tbl-team-PET::after, .sulamericana .icone-pet, .icone-cea, .tds_times .tbl-st-team>.tbl-team-CEA::before, .tds_times .tbl-away>.tbl-team-CEA::before, .tds_times .tbl-home>.tbl-team-CEA::after, .icone-cei, .tds_times .tbl-st-team>.tbl-team-CEI::before, .tds_times .tbl-away>.tbl-team-CEI::before, .tds_times .tbl-home>.tbl-team-CEI::after, .icone-cer, .sulamericana .tbl-st-team>.tbl-team-CER::before, .sulamericana .tbl-away>.tbl-team-CER::before, .sulamericana .tbl-home>.tbl-team-CER::after, .icone-cfc, .tds_times .tbl-st-team>.tbl-team-CFC::before, .tds_times .tbl-away>.tbl-team-CFC::before, .tds_times .tbl-home>.tbl-team-CFC::after, .icone-cha, .tds_times .tbl-st-team>.tbl-team-CHA::before, .tds_times .tbl-away>.tbl-team-CHA::before, .tds_times .tbl-home>.tbl-team-CHA::after, .icone-chape-tv, .icone-check, .icone-cmp, .tds_times .tbl-st-team>.tbl-team-CMP::before, .tds_times .tbl-away>.tbl-team-CMP::before, .tds_times .tbl-home>.tbl-team-CMP::after, .icone-cms, .tds_times .tbl-st-team>.tbl-team-CMS::before, .tds_times .tbl-away>.tbl-team-CMS::before, .tds_times .tbl-home>.tbl-team-CMS::after, .icone-con, .icone-cor, .tds_times .tbl-st-team>.tbl-team-COR::before, .tds_times .tbl-away>.tbl-team-COR::before, .tds_times .tbl-home>.tbl-team-COR::after, .icone-coracao, .icone-cou, .sulamericana .tbl-st-team>.tbl-team-COM::before, .sulamericana .tbl-away>.tbl-team-COM::before, .sulamericana .tbl-home>.tbl-team-COM::after, .sulamericana .icone-com, .icone-crb, .tds_times .tbl-st-team>.tbl-team-CRB::before, .tds_times .tbl-away>.tbl-team-CRB::before, .tds_times .tbl-home>.tbl-team-CRB::after, .icone-cri, .tds_times .tbl-st-team>.tbl-team-CRI::before, .tds_times .tbl-away>.tbl-team-CRI::before, .tds_times .tbl-home>.tbl-team-CRI::after, .icone-cru, .tds_times .tbl-st-team>.tbl-team-CRU::before, .tds_times .tbl-away>.tbl-team-CRU::before, .tds_times .tbl-home>.tbl-team-CRU::after, .icone-csa, .tds_times .tbl-st-team>.tbl-team-CSA::before, .tds_times .tbl-away>.tbl-team-CSA::before, .tds_times .tbl-home>.tbl-team-CSA::after, .icone-cui, .tds_times .tbl-st-team>.tbl-team-CUI::before, .tds_times .tbl-away>.tbl-team-CUI::before, .tds_times .tbl-home>.tbl-team-CUI::after, .icone-dan, .sulamericana .tbl-st-team>.tbl-team-DAN::before, .sulamericana .tbl-away>.tbl-team-DAN::before, .sulamericana .tbl-home>.tbl-team-DAN::after, .icone-dca, .sulamericana .tbl-st-team>.tbl-team-CAL::before, .sulamericana .tbl-away>.tbl-team-CAL::before, .sulamericana .tbl-home>.tbl-team-CAL::after, .sulamericana .icone-cal, .sulamericana .tds_times .tbl-st-team>.tbl-team-CAL::before, .sulamericana .tds_times .tbl-away>.tbl-team-CAL::before, .sulamericana .tds_times .tbl-home>.tbl-team-CAL::after, .icone-def, .sulamericana .tbl-st-team>.tbl-team-DEF::before, .sulamericana .tbl-away>.tbl-team-DEF::before, .sulamericana .tbl-home>.tbl-team-DEF::after, .icone-dep, .sulamericana .tbl-st-team>.tbl-team-CUE::before, .sulamericana .tbl-away>.tbl-team-CUE::before, .sulamericana .tbl-home>.tbl-team-CUE::after, .sulamericana .icone-cue, .icone-deportivo-anzoategui, .sulamericana .tbl-st-team>.tbl-team-ANZ::before, .sulamericana .tbl-away>.tbl-team-ANZ::before, .sulamericana .tbl-home>.tbl-team-ANZ::after, .sulamericana .icone-anz, .icone-des, .tds_times .tbl-st-team>.tbl-team-DES::before, .tds_times .tbl-away>.tbl-team-DES::before, .tds_times .tbl-home>.tbl-team-DES::after, .icone-dim, .sulamericana .tbl-st-team>.tbl-team-IME::before, .sulamericana .tbl-away>.tbl-team-IME::before, .sulamericana .tbl-home>.tbl-team-IME::after, .sulamericana .icone-ime, .icone-dugout-chape, .icone-dugout-f, .icone-dugout, .icone-dyj, .sulamericana .tbl-st-team>.tbl-team-DFJ::before, .sulamericana .tbl-away>.tbl-team-DFJ::before, .sulamericana .tbl-home>.tbl-team-DFJ::after, .sulamericana .icone-dfj, .icone-esc, .sulamericana .tbl-st-team>.tbl-team-ESV::before, .sulamericana .tbl-away>.tbl-team-ESV::before, .sulamericana .tbl-home>.tbl-team-ESV::after, .sulamericana .icone-esv, .icone-est, .sulamericana .tbl-st-team>.tbl-team-EST::before, .sulamericana .tbl-away>.tbl-team-EST::before, .sulamericana .tbl-home>.tbl-team-EST::after, .icone-eve, .sulamericana .tbl-st-team>.tbl-team-EVE::before, .sulamericana .tbl-away>.tbl-team-EVE::before, .sulamericana .tbl-home>.tbl-team-EVE::after, .icone-face, .icone-facebook-chape, .icone-facebook-f, .icone-facebook, .icone-fas, .tds_times .tbl-st-team>.tbl-team-FAS::before, .tds_times .tbl-away>.tbl-team-FAS::before, .tds_times .tbl-home>.tbl-team-FAS::after, .icone-fcb, .tds_times .tbl-st-team>.tbl-team-FCB::before, .tds_times .tbl-away>.tbl-team-FCB::before, .tds_times .tbl-home>.tbl-team-FCB::after, .icone-fer, .tds_times .tbl-st-team>.tbl-team-FER::before, .tds_times .tbl-away>.tbl-team-FER::before, .tds_times .tbl-home>.tbl-team-FER::after, .icone-fig, .tds_times .tbl-st-team>.tbl-team-FIG::before, .tds_times .tbl-away>.tbl-team-FIG::before, .tds_times .tbl-home>.tbl-team-FIG::after, .icone-fla, .tds_times .tbl-st-team>.tbl-team-FLA::before, .tds_times .tbl-away>.tbl-team-FLA::before, .tds_times .tbl-home>.tbl-team-FLA::after, .icone-flag-brasil, .icone-flag-eua, .icone-flag-spain, .icone-flu, .tds_times .tbl-st-team>.tbl-team-FLU::before, .tds_times .tbl-away>.tbl-team-FLU::before, .tds_times .tbl-home>.tbl-team-FLU::after, .icone-fone-f, .icone-for, .tds_times .tbl-st-team>.tbl-team-FOR::before, .tds_times .tbl-away>.tbl-team-FOR::before, .tds_times .tbl-home>.tbl-team-FOR::after, .icone-fri, .tds_times .tbl-st-team>.tbl-team-FRI::before, .tds_times .tbl-away>.tbl-team-FRI::before, .tds_times .tbl-home>.tbl-team-FRI::after, .icone-fua, .sulamericana .tbl-st-team>.tbl-team-FUE::before, .sulamericana .tbl-away>.tbl-team-FUE::before, .sulamericana .tbl-home>.tbl-team-FUE::after, .sulamericana .icone-fue, .icone-gce, .tds_times .tbl-st-team>.tbl-team-GCE::before, .tds_times .tbl-away>.tbl-team-GCE::before, .tds_times .tbl-home>.tbl-team-GCE::after, .icone-gim, .sulamericana .tbl-st-team>.tbl-team-GIM::before, .sulamericana .tbl-away>.tbl-team-GIM::before, .sulamericana .tbl-home>.tbl-team-GIM::after, .icone-glb, .tds_times .tbl-st-team>.tbl-team-GLB::before, .tds_times .tbl-away>.tbl-team-GLB::before, .tds_times .tbl-home>.tbl-team-GLB::after, .icone-goi, .tds_times .tbl-st-team>.tbl-team-GOI::before, .tds_times .tbl-away>.tbl-team-GOI::before, .tds_times .tbl-home>.tbl-team-GOI::after, .icone-gplus, .icone-gre, .tds_times .tbl-st-team>.tbl-team-GRE::before, .tds_times .tbl-away>.tbl-team-GRE::before, .tds_times .tbl-home>.tbl-team-GRE::after, .icone-gur, .tds_times .tbl-st-team>.tbl-team-GUR::before, .tds_times .tbl-away>.tbl-team-GUR::before, .tds_times .tbl-home>.tbl-team-GUR::after, .icone-heart-p, .icone-her, .icone-hua, .sulamericana .tbl-st-team>.tbl-team-SHU::before, .sulamericana .tbl-away>.tbl-team-SHU::before, .sulamericana .tbl-home>.tbl-team-SHU::after, .sulamericana .icone-shu, .icone-hur, .sulamericana .tbl-st-team>.tbl-team-HUR::before, .sulamericana .tbl-away>.tbl-team-HUR::before, .sulamericana .tbl-home>.tbl-team-HUR::after, .icone-ind, .sulamericana .tbl-st-team>.tbl-team-IND::before, .sulamericana .tbl-away>.tbl-team-IND::before, .sulamericana .tbl-home>.tbl-team-IND::after, .icone-ingressos-p, .icone-ingressos, .icone-inl, .tds_times .tbl-st-team>.tbl-team-INL::before, .tds_times .tbl-away>.tbl-team-INL::before, .tds_times .tbl-home>.tbl-team-INL::after, .icone-instagram-f, .icone-instagram, .icone-int, .tds_times .tbl-st-team>.tbl-team-INT::before, .tds_times .tbl-away>.tbl-team-INT::before, .tds_times .tbl-home>.tbl-team-INT::after, .icone-iqu, .sulamericana .tbl-st-team>.tbl-team-IQU::before, .sulamericana .tbl-away>.tbl-team-IQU::before, .sulamericana .tbl-home>.tbl-team-IQU::after, .icone-ita, .tds_times .tbl-st-team>.tbl-team-ITA::before, .tds_times .tbl-away>.tbl-team-ITA::before, .tds_times .tbl-home>.tbl-team-ITA::after, .icone-joi, .tds_times .tbl-st-team>.tbl-team-JOI::before, .tds_times .tbl-away>.tbl-team-JOI::before, .tds_times .tbl-home>.tbl-team-JOI::after, .icone-jua, .sulamericana .tbl-st-team>.tbl-team-JUA::before, .sulamericana .tbl-away>.tbl-team-JUA::before, .sulamericana .tbl-home>.tbl-team-JUA::after, .icone-jun, .sulamericana .tbl-st-team>.tbl-team-JUN::before, .sulamericana .tbl-away>.tbl-team-JUN::before, .sulamericana .tbl-home>.tbl-team-JUN::after, .icone-juv, .tds_times .tbl-st-team>.tbl-team-JUV::before, .tds_times .tbl-away>.tbl-team-JUV::before, .tds_times .tbl-home>.tbl-team-JUV::after, .icone-lan, .tds_times .tbl-st-team>.tbl-team-LAN::before, .tds_times .tbl-away>.tbl-team-LAN::before, .tds_times .tbl-home>.tbl-team-LAN::after, .icone-ldu, .sulamericana .tbl-st-team>.tbl-team-LDU::before, .sulamericana .tbl-away>.tbl-team-LDU::before, .sulamericana .tbl-home>.tbl-team-LDU::after, .icone-lib, .sulamericana .tbl-st-team>.tbl-team-LIB::before, .sulamericana .tbl-away>.tbl-team-LIB::before, .sulamericana .tbl-home>.tbl-team-LIB::after, .icone-liv, .sulamericana .tbl-st-team>.tbl-team-LIV::before, .sulamericana .tbl-away>.tbl-team-LIV::before, .sulamericana .tbl-home>.tbl-team-LIV::after, .icone-lon, .tds_times .tbl-st-team>.tbl-team-LON::before, .tds_times .tbl-away>.tbl-team-LON::before, .tds_times .tbl-home>.tbl-team-LON::after, .icone-lupa, .icone-luv, .tds_times .tbl-st-team>.tbl-team-LUV::before, .tds_times .tbl-away>.tbl-team-LUV::before, .tds_times .tbl-home>.tbl-team-LUV::after, .icone-luz, .tds_times .tbl-st-team>.tbl-team-LUZ::before, .tds_times .tbl-away>.tbl-team-LUZ::before, .tds_times .tbl-home>.tbl-team-LUZ::after, .icone-mcd, .icone-mot, .tds_times .tbl-st-team>.tbl-team-MOT::before, .tds_times .tbl-away>.tbl-team-MOT::before, .tds_times .tbl-home>.tbl-team-MOT::after, .icone-mtp, .tds_times .tbl-st-team>.tbl-team-MTP::before, .tds_times .tbl-away>.tbl-team-MTP::before, .tds_times .tbl-home>.tbl-team-MTP::after, .icone-mundo, .icone-mur, .tds_times .tbl-st-team>.tbl-team-MUR::before, .tds_times .tbl-away>.tbl-team-MUR::before, .tds_times .tbl-home>.tbl-team-MUR::after, .icone-nac, .icone-nau, .tds_times .tbl-st-team>.tbl-team-NAU::before, .tds_times .tbl-away>.tbl-team-NAU::before, .tds_times .tbl-home>.tbl-team-NAU::after, .icone-ncn, .sulamericana .tbl-st-team>.tbl-team-NAP::before, .sulamericana .tbl-away>.tbl-team-NAP::before, .sulamericana .tbl-home>.tbl-team-NAP::after, .sulamericana .icone-nap, .icone-ncp, .sulamericana .tbl-st-team>.tbl-team-NPO::before, .sulamericana .tbl-away>.tbl-team-NPO::before, .sulamericana .tbl-home>.tbl-team-NPO::after, .sulamericana .icone-npo, .icone-nur, .tds_times .tbl-st-team>.tbl-team-NUR::before, .tds_times .tbl-away>.tbl-team-NUR::before, .tds_times .tbl-home>.tbl-team-NUR::after, .icone-oes, .tds_times .tbl-st-team>.tbl-team-OES::before, .tds_times .tbl-away>.tbl-team-OES::before, .tds_times .tbl-home>.tbl-team-OES::after, .icone-ohi, .sulamericana .tbl-st-team>.tbl-team-OHI::before, .sulamericana .tbl-away>.tbl-team-OHI::before, .sulamericana .tbl-home>.tbl-team-OHI::after, .icone-oli, .sulamericana .tbl-st-team>.tbl-team-OLI::before, .sulamericana .tbl-away>.tbl-team-OLI::before, .sulamericana .tbl-home>.tbl-team-OLI::after, .icone-ope, .sulamericana .tbl-st-team>.tbl-team-ORI::before, .sulamericana .tbl-away>.tbl-team-ORI::before, .sulamericana .tbl-home>.tbl-team-ORI::after, .sulamericana .icone-ori, .icone-pal, .tds_times .tbl-st-team>.tbl-team-PAL::before, .tds_times .tbl-away>.tbl-team-PAL::before, .tds_times .tbl-home>.tbl-team-PAL::after, .icone-palestino, .sulamericana .tbl-st-team>.tbl-team-PAL::before, .sulamericana .tbl-away>.tbl-team-PAL::before, .sulamericana .tbl-home>.tbl-team-PAL::after, .sulamericana .icone-pal, .sulamericana .tds_times .tbl-st-team>.tbl-team-PAL::before, .sulamericana .tds_times .tbl-away>.tbl-team-PAL::before, .sulamericana .tds_times .tbl-home>.tbl-team-PAL::after, .icone-par, .tds_times .tbl-st-team>.tbl-team-PAR::before, .tds_times .tbl-away>.tbl-team-PAR::before, .tds_times .tbl-home>.tbl-team-PAR::after, .icone-pat, .sulamericana .tbl-st-team>.tbl-team-PAT::before, .sulamericana .tbl-away>.tbl-team-PAT::before, .sulamericana .tbl-home>.tbl-team-PAT::after, .icone-pay, .tds_times .tbl-st-team>.tbl-team-PAY::before, .tds_times .tbl-away>.tbl-team-PAY::before, .tds_times .tbl-home>.tbl-team-PAY::after, .icone-pin, .icone-pinheiro, .icone-play-hino, .icone-play, .icone-pon, .tds_times .tbl-st-team>.tbl-team-PON::before, .tds_times .tbl-away>.tbl-team-PON::before, .tds_times .tbl-home>.tbl-team-PON::after, .icone-por, .tds_times .tbl-st-team>.tbl-team-POR::before, .tds_times .tbl-away>.tbl-team-POR::before, .tds_times .tbl-home>.tbl-team-POR::after, .icone-pri, .tds_times .tbl-st-team>.tbl-team-PRI::before, .tds_times .tbl-away>.tbl-team-PRI::before, .tds_times .tbl-home>.tbl-team-PRI::after, .icone-pst, .tds_times .tbl-st-team>.tbl-team-PST::before, .tds_times .tbl-away>.tbl-team-PST::before, .tds_times .tbl-home>.tbl-team-PST::after, .icone-rac, .sulamericana .tbl-st-team>.tbl-team-RAC::before, .sulamericana .tbl-away>.tbl-team-RAC::before, .sulamericana .tbl-home>.tbl-team-RAC::after, .icone-rad, .sulamericana .tbl-st-team>.tbl-team-RNA::before, .sulamericana .tbl-away>.tbl-team-RNA::before, .sulamericana .tbl-home>.tbl-team-RNA::after, .sulamericana .icone-rna, .icone-rba, .tds_times .tbl-st-team>.tbl-team-RBA::before, .tds_times .tbl-away>.tbl-team-RBA::before, .tds_times .tbl-home>.tbl-team-RBA::after, .icone-rdn, .tds_times .tbl-st-team>.tbl-team-RDN::before, .tds_times .tbl-away>.tbl-team-RDN::before, .tds_times .tbl-home>.tbl-team-RDN::after, .icone-rem, .tds_times .tbl-st-team>.tbl-team-REM::before, .tds_times .tbl-away>.tbl-team-REM::before, .tds_times .tbl-home>.tbl-team-REM::after, .icone-riv, .tds_times .tbl-st-team>.tbl-team-RIV::before, .tds_times .tbl-away>.tbl-team-RIV::before, .tds_times .tbl-home>.tbl-team-RIV::after, .icone-saa, .tds_times .tbl-st-team>.tbl-team-SAA::before, .tds_times .tbl-away>.tbl-team-SAA::before, .tds_times .tbl-home>.tbl-team-SAA::after, .icone-sal, .tds_times .tbl-st-team>.tbl-team-SAL::before, .tds_times .tbl-away>.tbl-team-SAL::before, .tds_times .tbl-home>.tbl-team-SAL::after, .icone-sam, .tds_times .tbl-st-team>.tbl-team-SAM::before, .tds_times .tbl-away>.tbl-team-SAM::before, .tds_times .tbl-home>.tbl-team-SAM::after, .icone-san, .tds_times .tbl-st-team>.tbl-team-SAN::before, .tds_times .tbl-away>.tbl-team-SAN::before, .tds_times .tbl-home>.tbl-team-SAN::after, .icone-sem-escudo, .tds_times .tbl-st-team>span::before, .tds_times .tbl-away>span::before, .tds_times .tbl-home>span::after, .icone-ser, .tds_times .tbl-st-team>.tbl-team-SER::before, .tds_times .tbl-away>.tbl-team-SER::before, .tds_times .tbl-home>.tbl-team-SER::after, .icone-set, .tds_times .tbl-st-team>.tbl-team-SET::before, .tds_times .tbl-away>.tbl-team-SET::before, .tds_times .tbl-home>.tbl-team-SET::after, .icone-sfe, .sulamericana .tbl-st-team>.tbl-team-SFE::before, .sulamericana .tbl-away>.tbl-team-SFE::before, .sulamericana .tbl-home>.tbl-team-SFE::after, .icone-sfr, .tds_times .tbl-st-team>.tbl-team-SFR::before, .tds_times .tbl-away>.tbl-team-SFR::before, .tds_times .tbl-home>.tbl-team-SFR::after, .icone-shop-m, .icone-shop, .icone-sin, .tds_times .tbl-st-team>.tbl-team-SIN::before, .tds_times .tbl-away>.tbl-team-SIN::before, .tds_times .tbl-home>.tbl-team-SIN::after, .icone-sjo, .tds_times .tbl-st-team>.tbl-team-SJO::before, .tds_times .tbl-away>.tbl-team-SJO::before, .tds_times .tbl-home>.tbl-team-SJO::after, .icone-socio-contribuinte-g, .icone-socio-contribuinte, .icone-socio-cooperado-g, .icone-socio-cooperado, .icone-socio-mundo-g, .icone-socio-mundo, .icone-socio-torcedor-g, .icone-socio-torcedor, .icone-sol, .sulamericana .tbl-st-team>.tbl-team-SOL::before, .sulamericana .tbl-away>.tbl-team-SOL::before, .sulamericana .tbl-home>.tbl-team-SOL::after, .icone-spl, .tds_times .tbl-st-team>.tbl-team-SPL::before, .tds_times .tbl-away>.tbl-team-SPL::before, .tds_times .tbl-home>.tbl-team-SPL::after, .icone-spo, .tds_times .tbl-st-team>.tbl-team-SPO::before, .tds_times .tbl-away>.tbl-team-SPO::before, .tds_times .tbl-home>.tbl-team-SPO::after, .icone-sportivo-luqueno, .sulamericana .tbl-st-team>.tbl-team-LUQ::before, .sulamericana .tbl-away>.tbl-team-LUQ::before, .sulamericana .tbl-home>.tbl-team-LUQ::after, .sulamericana .icone-luq, .icone-sra, .tds_times .tbl-st-team>.tbl-team-SRA::before, .tds_times .tbl-away>.tbl-team-SRA::before, .tds_times .tbl-home>.tbl-team-SRA::after, .icone-srr, .tds_times .tbl-st-team>.tbl-team-SRR::before, .tds_times .tbl-away>.tbl-team-SRR::before, .tds_times .tbl-home>.tbl-team-SRR::after, .icone-star-p, .icone-star-s, .icone-star, .icone-stc, .tds_times .tbl-st-team>.tbl-team-STC::before, .tds_times .tbl-away>.tbl-team-STC::before, .tds_times .tbl-home>.tbl-team-STC::after, .icone-teste, .icone-tfc, .tds_times .tbl-st-team>.tbl-team-TFC::before, .tds_times .tbl-away>.tbl-team-TFC::before, .tds_times .tbl-home>.tbl-team-TFC::after, .icone-tlm, .sulamericana .tbl-st-team>.tbl-team-DTO::before, .sulamericana .tbl-away>.tbl-team-DTO::before, .sulamericana .tbl-home>.tbl-team-DTO::after, .sulamericana .icone-dto, .icone-tub, .icone-tuc, .sulamericana .tbl-st-team>.tbl-team-ATC::before, .sulamericana .tbl-away>.tbl-team-ATC::before, .sulamericana .tbl-home>.tbl-team-ATC::after, .sulamericana .icone-atc, .icone-tv, .chape_tv .h1 span.tv, .icone-tw, .icone-twitter-chape, .icone-twitter-f, .icone-twitter, .icone-unc, .tds_times .tbl-st-team>.tbl-team-UNC::before, .tds_times .tbl-away>.tbl-team-UNC::before, .tds_times .tbl-home>.tbl-team-UNC::after, .icone-universidad-chile, .sulamericana .tbl-st-team>.tbl-team-UNC::before, .sulamericana .tbl-away>.tbl-team-UNC::before, .sulamericana .tbl-home>.tbl-team-UNC::after, .sulamericana .icone-unc, .sulamericana .tds_times .tbl-st-team>.tbl-team-UNC::before, .sulamericana .tds_times .tbl-away>.tbl-team-UNC::before, .sulamericana .tds_times .tbl-home>.tbl-team-UNC::after, .icone-unq, .sulamericana .tbl-st-team>.tbl-team-UCE::before, .sulamericana .tbl-away>.tbl-team-UCE::before, .sulamericana .tbl-home>.tbl-team-UCE::after, .sulamericana .icone-uce, .icone-urd, .tds_times .tbl-st-team>.tbl-team-URD::before, .tds_times .tbl-away>.tbl-team-URD::before, .tds_times .tbl-home>.tbl-team-URD::after, .icone-urt, .tds_times .tbl-st-team>.tbl-team-URT::before, .tds_times .tbl-away>.tbl-team-URT::before, .tds_times .tbl-home>.tbl-team-URT::after, .icone-vas, .tds_times .tbl-st-team>.tbl-team-VAS::before, .tds_times .tbl-away>.tbl-team-VAS::before, .tds_times .tbl-home>.tbl-team-VAS::after, .icone-vic, .tds_times .tbl-st-team>.tbl-team-VIC::before, .tds_times .tbl-away>.tbl-team-VIC::before, .tds_times .tbl-home>.tbl-team-VIC::after, .icone-vil, .tds_times .tbl-st-team>.tbl-team-VIL::before, .tds_times .tbl-away>.tbl-team-VIL::before, .tds_times .tbl-home>.tbl-team-VIL::after, .icone-vit, .tds_times .tbl-st-team>.tbl-team-VIT::before, .tds_times .tbl-away>.tbl-team-VIT::before, .tds_times .tbl-home>.tbl-team-VIT::after, .icone-vol, .tds_times .tbl-st-team>.tbl-team-VOL::before, .tds_times .tbl-away>.tbl-team-VOL::before, .tds_times .tbl-home>.tbl-team-VOL::after, .icone-youtube-chape, .icone-youtube-f, .icone-youtube, .icone-ypi, .tds_times .tbl-st-team>.tbl-team-YPI::before, .tds_times .tbl-away>.tbl-team-YPI::before, .tds_times .tbl-home>.tbl-team-YPI::after, .icone-zul, .tds_times .tbl-st-team>.tbl-team-ZUL::before, .tds_times .tbl-away>.tbl-team-ZUL::before, .tds_times .tbl-home>.tbl-team-ZUL::after, .icone-user {
+	background-image: url('../images/icones.png');
+	background-repeat: no-repeat
+}
+.icone-aac, .tds_times .tbl-st-team>.tbl-team-AAC::before, .tds_times .tbl-away>.tbl-team-AAC::before, .tds_times .tbl-home>.tbl-team-AAC::after {
+	background-position: 0 -3611px;
+	height: 50px;
+	width: 50px
+}
+.icone-abc, .tds_times .tbl-st-team>.tbl-team-ABC::before, .tds_times .tbl-away>.tbl-team-ABC::before, .tds_times .tbl-home>.tbl-team-ABC::after {
+	background-position: 0 -2261px;
+	height: 50px;
+	width: 50px
+}
+.icone-ali, .sulamericana .tbl-st-team>.tbl-team-ALI::before, .sulamericana .tbl-away>.tbl-team-ALI::before, .sulamericana .tbl-home>.tbl-team-ALI::after {
+	background-position: 0 -2211px;
+	height: 50px;
+	width: 50px
+}
+.icone-alm, .tds_times .tbl-st-team>.tbl-team-ALM::before, .tds_times .tbl-away>.tbl-team-ALM::before, .tds_times .tbl-home>.tbl-team-ALM::after {
+	background-position: -50px -2211px;
+	height: 50px;
+	width: 50px
+}
+.icone-alt, .tds_times .tbl-st-team>.tbl-team-ALT::before, .tds_times .tbl-away>.tbl-team-ALT::before, .tds_times .tbl-home>.tbl-team-ALT::after {
+	background-position: -50px -2261px;
+	height: 50px;
+	width: 50px
+}
+.icone-amg, .tds_times .tbl-st-team>.tbl-team-AMG::before, .tds_times .tbl-away>.tbl-team-AMG::before, .tds_times .tbl-home>.tbl-team-AMG::after {
+	background-position: 0 -2361px;
+	height: 50px;
+	width: 50px
+}
+.icone-ana, .tds_times .tbl-st-team>.tbl-team-ANA::before, .tds_times .tbl-away>.tbl-team-ANA::before, .tds_times .tbl-home>.tbl-team-ANA::after {
+	background-position: 0 -2311px;
+	height: 50px;
+	width: 50px
+}
+.icone-anp, .tds_times .tbl-st-team>.tbl-team-ANP::before, .tds_times .tbl-away>.tbl-team-ANP::before, .tds_times .tbl-home>.tbl-team-ANP::after {
+	background-position: -50px -2311px;
+	height: 50px;
+	width: 50px
+}
+.icone-arrow-bow {
+	background-position: 0 0;
+	height: 26px;
+	width: 24px
+}
+.icone-ars, .sulamericana .tbl-st-team>.tbl-team-ARS::before, .sulamericana .tbl-away>.tbl-team-ARS::before, .sulamericana .tbl-home>.tbl-team-ARS::after {
+	background-position: -50px -2361px;
+	height: 50px;
+	width: 50px
+}
+.icone-asa, .tds_times .tbl-st-team>.tbl-team-ASA::before, .tds_times .tbl-away>.tbl-team-ASA::before, .tds_times .tbl-home>.tbl-team-ASA::after {
+	background-position: 0 -2461px;
+	height: 50px;
+	width: 50px
+}
+.icone-atg, .tds_times .tbl-st-team>.tbl-team-ATG::before, .tds_times .tbl-away>.tbl-team-ATG::before, .tds_times .tbl-home>.tbl-team-ATG::after {
+	background-position: 0 -2411px;
+	height: 50px;
+	width: 50px
+}
+.icone-atl, .tds_times .tbl-st-team>.tbl-team-ATL::before, .tds_times .tbl-away>.tbl-team-ATL::before, .tds_times .tbl-home>.tbl-team-ATL::after {
+	background-position: -50px -2411px;
+	height: 50px;
+	width: 50px
+}
+.icone-atu, .tds_times .tbl-st-team>.tbl-team-ATU::before, .tds_times .tbl-away>.tbl-team-ATU::before, .tds_times .tbl-home>.tbl-team-ATU::after {
+	background-position: -50px -2461px;
+	height: 50px;
+	width: 50px
+}
+.icone-atv, .sulamericana .tbl-st-team>.tbl-team-ATV::before, .sulamericana .tbl-away>.tbl-team-ATV::before, .sulamericana .tbl-home>.tbl-team-ATV::after {
+	background-position: 0 -2561px;
+	height: 50px;
+	width: 50px
+}
+.icone-aud, .tds_times .tbl-st-team>.tbl-team-AUD::before, .tds_times .tbl-away>.tbl-team-AUD::before, .tds_times .tbl-home>.tbl-team-AUD::after {
+	background-position: 0 -2511px;
+	height: 50px;
+	width: 50px
+}
+.icone-ava, .tds_times .tbl-st-team>.tbl-team-AVA::before, .tds_times .tbl-away>.tbl-team-AVA::before, .tds_times .tbl-home>.tbl-team-AVA::after {
+	background-position: -50px -2511px;
+	height: 50px;
+	width: 50px
+}
+.icone-aviso-escuro, .newsletter .form-error.form-group .desc_erro {
+	background-position: 0 -59px;
+	height: 28px;
+	width: 32px
+}
+.icone-aviso, .form-error .desc_erro {
+	background-position: -78px 0;
+	height: 28px;
+	width: 32px
+}
+.icone-bah, .tds_times .tbl-st-team>.tbl-team-BAH::before, .tds_times .tbl-away>.tbl-team-BAH::before, .tds_times .tbl-home>.tbl-team-BAH::after {
+	background-position: -50px -2561px;
+	height: 50px;
+	width: 50px
+}
+.icone-ben, .tds_times .tbl-st-team>.tbl-team-BEN::before, .tds_times .tbl-away>.tbl-team-BEN::before, .tds_times .tbl-home>.tbl-team-BEN::after {
+	background-position: 0 -2661px;
+	height: 50px;
+	width: 50px
+}
+.icone-boa, .tds_times .tbl-st-team>.tbl-team-BOA::before, .tds_times .tbl-away>.tbl-team-BOA::before, .tds_times .tbl-home>.tbl-team-BOA::after {
+	background-position: 0 -2611px;
+	height: 50px;
+	width: 50px
+}
+.icone-bol, .sulamericana .tbl-st-team>.tbl-team-BOL::before, .sulamericana .tbl-away>.tbl-team-BOL::before, .sulamericana .tbl-home>.tbl-team-BOL::after {
+	background-position: -50px -2611px;
+	height: 50px;
+	width: 50px
+}
+.icone-bor, .sulamericana .tbl-st-team>.tbl-team-BOS::before, .sulamericana .tbl-away>.tbl-team-BOS::before, .sulamericana .tbl-home>.tbl-team-BOS::after, .sulamericana .icone-bos {
+	background-position: -50px -2661px;
+	height: 50px;
+	width: 50px
+}
+.icone-bot, .tds_times .tbl-st-team>.tbl-team-BOT::before, .tds_times .tbl-away>.tbl-team-BOT::before, .tds_times .tbl-home>.tbl-team-BOT::after {
+	background-position: 0 -2761px;
+	height: 50px;
+	width: 50px
+}
+.icone-bov, .tds_times .tbl-st-team>.tbl-team-BOV::before, .tds_times .tbl-away>.tbl-team-BOV::before, .tds_times .tbl-home>.tbl-team-BOV::after {
+	background-position: 0 -2711px;
+	height: 50px;
+	width: 50px
+}
+.icone-bpb, .tds_times .tbl-st-team>.tbl-team-BPB::before, .tds_times .tbl-away>.tbl-team-BPB::before, .tds_times .tbl-home>.tbl-team-BPB::after {
+	background-position: -50px -2711px;
+	height: 50px;
+	width: 50px
+}
+.icone-brg, .tds_times .tbl-st-team>.tbl-team-BRG::before, .tds_times .tbl-away>.tbl-team-BRG::before, .tds_times .tbl-home>.tbl-team-BRG::after {
+	background-position: -50px -2761px;
+	height: 50px;
+	width: 50px
+}
+.icone-bru, .tds_times .tbl-st-team>.tbl-team-BRU::before, .tds_times .tbl-away>.tbl-team-BRU::before, .tds_times .tbl-home>.tbl-team-BRU::after {
+	background-position: 0 -2861px;
+	height: 50px;
+	width: 50px
+}
+.icone-btn-news {
+	background-position: -50px 0px;
+	height: 26px;
+	width: 28px
+}
+.icone-btn-ok {
+	background-position: -37px -30px;
+	height: 26px;
+	width: 28px
+}
+.icone-btn-star {
+	background-position: -65px -30px;
+	height: 26px;
+	width: 28px
+}
+.icone-cal, .tds_times .tbl-st-team>.tbl-team-CAL::before, .tds_times .tbl-away>.tbl-team-CAL::before, .tds_times .tbl-home>.tbl-team-CAL::after {
+	background-position: 0 -2811px;
+	height: 50px;
+	width: 50px
+}
+.icone-cam, .tds_times .tbl-st-team>.tbl-team-CAM::before, .tds_times .tbl-away>.tbl-team-CAM::before, .tds_times .tbl-home>.tbl-team-CAM::after {
+	background-position: -50px -2811px;
+	height: 50px;
+	width: 50px
+}
+.icone-camera {
+	background-position: 0 -4454px;
+	height: 64px;
+	width: 64px
+}
+.icone-cap, .tds_times .tbl-st-team>.tbl-team-CAP::before, .tds_times .tbl-away>.tbl-team-CAP::before, .tds_times .tbl-home>.tbl-team-CAP::after {
+	background-position: -50px -2861px;
+	height: 50px;
+	width: 50px
+}
+.icone-car, .sulamericana .tbl-st-team>.tbl-team-CAR::before, .sulamericana .tbl-away>.tbl-team-CAR::before, .sulamericana .tbl-home>.tbl-team-CAR::after {
+	background-position: 0 -2961px;
+	height: 50px;
+	width: 50px
+}
+.icone-cdp, .sulamericana .tbl-st-team>.tbl-team-PET::before, .sulamericana .tbl-away>.tbl-team-PET::before, .sulamericana .tbl-home>.tbl-team-PET::after, .sulamericana .icone-pet {
+	background-position: 0 -2911px;
+	height: 50px;
+	width: 50px
+}
+.icone-cea, .tds_times .tbl-st-team>.tbl-team-CEA::before, .tds_times .tbl-away>.tbl-team-CEA::before, .tds_times .tbl-home>.tbl-team-CEA::after {
+	background-position: -50px -2911px;
+	height: 50px;
+	width: 50px
+}
+.icone-cei, .tds_times .tbl-st-team>.tbl-team-CEI::before, .tds_times .tbl-away>.tbl-team-CEI::before, .tds_times .tbl-home>.tbl-team-CEI::after {
+	background-position: -50px -2961px;
+	height: 50px;
+	width: 50px
+}
+.icone-cer, .sulamericana .tbl-st-team>.tbl-team-CER::before, .sulamericana .tbl-away>.tbl-team-CER::before, .sulamericana .tbl-home>.tbl-team-CER::after {
+	background-position: 0 -3061px;
+	height: 50px;
+	width: 50px
+}
+.icone-cfc, .tds_times .tbl-st-team>.tbl-team-CFC::before, .tds_times .tbl-away>.tbl-team-CFC::before, .tds_times .tbl-home>.tbl-team-CFC::after {
+	background-position: 0 -3011px;
+	height: 50px;
+	width: 50px
+}
+.icone-cha, .tds_times .tbl-st-team>.tbl-team-CHA::before, .tds_times .tbl-away>.tbl-team-CHA::before, .tds_times .tbl-home>.tbl-team-CHA::after {
+	background-position: 0 -511px;
+	height: 50px;
+	width: 50px
+}
+.icone-chape-tv {
+	background-position: 0 -4518px;
+	height: 63px;
+	width: 66px
+}
+.icone-check {
+	background-position: -110px 0;
+	height: 28px;
+	width: 28px
+}
+.icone-cmp, .tds_times .tbl-st-team>.tbl-team-CMP::before, .tds_times .tbl-away>.tbl-team-CMP::before, .tds_times .tbl-home>.tbl-team-CMP::after {
+	background-position: -49px -361px;
+	height: 50px;
+	width: 50px
+}
+.icone-cms, .tds_times .tbl-st-team>.tbl-team-CMS::before, .tds_times .tbl-away>.tbl-team-CMS::before, .tds_times .tbl-home>.tbl-team-CMS::after {
+	background-position: 0 -461px;
+	height: 50px;
+	width: 50px
+}
+.icone-con {
+	background-position: 0 -411px;
+	height: 50px;
+	width: 50px
+}
+.icone-cor, .tds_times .tbl-st-team>.tbl-team-COR::before, .tds_times .tbl-away>.tbl-team-COR::before, .tds_times .tbl-home>.tbl-team-COR::after {
+	background-position: -50px -411px;
+	height: 50px;
+	width: 50px
+}
+.icone-coracao {
+	background-position: 0 -4391px;
+	height: 59px;
+	width: 59px
+}
+.icone-cou, .sulamericana .tbl-st-team>.tbl-team-COM::before, .sulamericana .tbl-away>.tbl-team-COM::before, .sulamericana .tbl-home>.tbl-team-COM::after, .sulamericana .icone-com {
+	background-position: -50px -461px;
+	height: 50px;
+	width: 50px
+}
+.icone-crb, .tds_times .tbl-st-team>.tbl-team-CRB::before, .tds_times .tbl-away>.tbl-team-CRB::before, .tds_times .tbl-home>.tbl-team-CRB::after {
+	background-position: 0 -561px;
+	height: 50px;
+	width: 50px
+}
+.icone-cri, .tds_times .tbl-st-team>.tbl-team-CRI::before, .tds_times .tbl-away>.tbl-team-CRI::before, .tds_times .tbl-home>.tbl-team-CRI::after {
+	background-position: 0 -511px;
+	height: 50px;
+	width: 50px
+}
+.icone-cru, .tds_times .tbl-st-team>.tbl-team-CRU::before, .tds_times .tbl-away>.tbl-team-CRU::before, .tds_times .tbl-home>.tbl-team-CRU::after {
+	background-position: -50px -511px;
+	height: 50px;
+	width: 50px
+}
+.icone-csa, .tds_times .tbl-st-team>.tbl-team-CSA::before, .tds_times .tbl-away>.tbl-team-CSA::before, .tds_times .tbl-home>.tbl-team-CSA::after {
+	background-position: -50px -561px;
+	height: 50px;
+	width: 50px
+}
+.icone-cui, .tds_times .tbl-st-team>.tbl-team-CUI::before, .tds_times .tbl-away>.tbl-team-CUI::before, .tds_times .tbl-home>.tbl-team-CUI::after {
+	background-position: 0 -661px;
+	height: 50px;
+	width: 50px
+}
+.icone-dan, .sulamericana .tbl-st-team>.tbl-team-DAN::before, .sulamericana .tbl-away>.tbl-team-DAN::before, .sulamericana .tbl-home>.tbl-team-DAN::after {
+	background-position: 0 -611px;
+	height: 50px;
+	width: 50px
+}
+.icone-dca, .sulamericana .tbl-st-team>.tbl-team-CAL::before, .sulamericana .tbl-away>.tbl-team-CAL::before, .sulamericana .tbl-home>.tbl-team-CAL::after, .sulamericana .icone-cal, .sulamericana .tds_times .tbl-st-team>.tbl-team-CAL::before, .sulamericana .tds_times .tbl-away>.tbl-team-CAL::before, .sulamericana .tds_times .tbl-home>.tbl-team-CAL::after {
+	background-position: -50px -611px;
+	height: 50px;
+	width: 50px
+}
+.icone-def, .sulamericana .tbl-st-team>.tbl-team-DEF::before, .sulamericana .tbl-away>.tbl-team-DEF::before, .sulamericana .tbl-home>.tbl-team-DEF::after {
+	background-position: -50px -661px;
+	height: 50px;
+	width: 50px
+}
+.icone-dep, .sulamericana .tbl-st-team>.tbl-team-CUE::before, .sulamericana .tbl-away>.tbl-team-CUE::before, .sulamericana .tbl-home>.tbl-team-CUE::after, .sulamericana .icone-cue {
+	background-position: 0 -761px;
+	height: 50px;
+	width: 50px
+}
+.icone-deportivo-anzoategui, .sulamericana .tbl-st-team>.tbl-team-ANZ::before, .sulamericana .tbl-away>.tbl-team-ANZ::before, .sulamericana .tbl-home>.tbl-team-ANZ::after, .sulamericana .icone-anz {
+	background-position: 0 -711px;
+	height: 50px;
+	width: 50px
+}
+.icone-des, .tds_times .tbl-st-team>.tbl-team-DES::before, .tds_times .tbl-away>.tbl-team-DES::before, .tds_times .tbl-home>.tbl-team-DES::after {
+	background-position: -50px -711px;
+	height: 50px;
+	width: 50px
+}
+.icone-dim, .sulamericana .tbl-st-team>.tbl-team-IME::before, .sulamericana .tbl-away>.tbl-team-IME::before, .sulamericana .tbl-home>.tbl-team-IME::after, .sulamericana .icone-ime {
+	background-position: -50px -761px;
+	height: 50px;
+	width: 50px
+}
+.icone-dugout-chape {
+	background-position: 0 -4836px;
+	height: 88px;
+	width: 88px
+}
+.icone-dugout-f {
+	background-position: 0 -311px;
+	height: 49px;
+	width: 49px
+}
+.icone-dugout {
+	background-position: -32px -200px;
+	height: 30px;
+	width: 30px
+}
+.icone-dugout:hover, .icone-dugout.dugout-hover {
+	background-position: 0 -168px
+}
+.icone-dyj, .sulamericana .tbl-st-team>.tbl-team-DFJ::before, .sulamericana .tbl-away>.tbl-team-DFJ::before, .sulamericana .tbl-home>.tbl-team-DFJ::after, .sulamericana .icone-dfj {
+	background-position: 0 -861px;
+	height: 50px;
+	width: 50px
+}
+.icone-esc, .sulamericana .tbl-st-team>.tbl-team-ESV::before, .sulamericana .tbl-away>.tbl-team-ESV::before, .sulamericana .tbl-home>.tbl-team-ESV::after, .sulamericana .icone-esv {
+	background-position: 0 -811px;
+	height: 50px;
+	width: 50px
+}
+.icone-est, .sulamericana .tbl-st-team>.tbl-team-EST::before, .sulamericana .tbl-away>.tbl-team-EST::before, .sulamericana .tbl-home>.tbl-team-EST::after {
+	background-position: -50px -811px;
+	height: 50px;
+	width: 50px
+}
+.icone-eve, .sulamericana .tbl-st-team>.tbl-team-EVE::before, .sulamericana .tbl-away>.tbl-team-EVE::before, .sulamericana .tbl-home>.tbl-team-EVE::after {
+	background-position: -50px -861px;
+	height: 50px;
+	width: 50px
+}
+.icone-face {
+	background-position: -35px -279px;
+	height: 29px;
+	width: 102px
+}
+.icone-facebook-chape {
+	background-position: 0 -4748px;
+	height: 88px;
+	width: 89px
+}
+.icone-facebook-f {
+	background-position: 0 -361px;
+	height: 49px;
+	width: 49px
+}
+.icone-facebook {
+	background-position: -91px -138px;
+	height: 30px;
+	width: 30px
+}
+.icone-facebook:hover, .icone-facebook.facebook-hover {
+	background-position: -92px -108px
+}
+.icone-fas, .tds_times .tbl-st-team>.tbl-team-FAS::before, .tds_times .tbl-away>.tbl-team-FAS::before, .tds_times .tbl-home>.tbl-team-FAS::after {
+	background-position: 0 -961px;
+	height: 50px;
+	width: 50px
+}
+.icone-fcb, .tds_times .tbl-st-team>.tbl-team-FCB::before, .tds_times .tbl-away>.tbl-team-FCB::before, .tds_times .tbl-home>.tbl-team-FCB::after {
+	background-position: 0 -911px;
+	height: 50px;
+	width: 50px
+}
+.icone-fer, .tds_times .tbl-st-team>.tbl-team-FER::before, .tds_times .tbl-away>.tbl-team-FER::before, .tds_times .tbl-home>.tbl-team-FER::after {
+	background-position: -50px -911px;
+	height: 50px;
+	width: 50px
+}
+.icone-fig, .tds_times .tbl-st-team>.tbl-team-FIG::before, .tds_times .tbl-away>.tbl-team-FIG::before, .tds_times .tbl-home>.tbl-team-FIG::after {
+	background-position: -50px -961px;
+	height: 50px;
+	width: 50px
+}
+.icone-fla, .tds_times .tbl-st-team>.tbl-team-FLA::before, .tds_times .tbl-away>.tbl-team-FLA::before, .tds_times .tbl-home>.tbl-team-FLA::after {
+	background-position: 0 -1061px;
+	height: 50px;
+	width: 50px
+}
+.icone-flag-brasil {
+	background-position: -59px -168px;
+	height: 22px;
+	width: 22px
+}
+.icone-flag-eua {
+	background-position: -62px -108px;
+	height: 22px;
+	width: 22px
+}
+.icone-flag-spain {
+	background-position: -62px -200px;
+	height: 22px;
+	width: 22px
+}
+.icone-flu, .tds_times .tbl-st-team>.tbl-team-FLU::before, .tds_times .tbl-away>.tbl-team-FLU::before, .tds_times .tbl-home>.tbl-team-FLU::after {
+	background-position: 0 -1011px;
+	height: 50px;
+	width: 50px
+}
+.icone-fone-f {
+	background-position: -32px -59px;
+	height: 34px;
+	width: 34px
+}
+.icone-for, .tds_times .tbl-st-team>.tbl-team-FOR::before, .tds_times .tbl-away>.tbl-team-FOR::before, .tds_times .tbl-home>.tbl-team-FOR::after {
+	background-position: -50px -1011px;
+	height: 50px;
+	width: 50px
+}
+.icone-fri, .tds_times .tbl-st-team>.tbl-team-FRI::before, .tds_times .tbl-away>.tbl-team-FRI::before, .tds_times .tbl-home>.tbl-team-FRI::after {
+	background-position: -50px -1061px;
+	height: 50px;
+	width: 50px
+}
+.icone-fua, .sulamericana .tbl-st-team>.tbl-team-FUE::before, .sulamericana .tbl-away>.tbl-team-FUE::before, .sulamericana .tbl-home>.tbl-team-FUE::after, .sulamericana .icone-fue {
+	background-position: 0 -1161px;
+	height: 50px;
+	width: 50px
+}
+.icone-gce, .tds_times .tbl-st-team>.tbl-team-GCE::before, .tds_times .tbl-away>.tbl-team-GCE::before, .tds_times .tbl-home>.tbl-team-GCE::after {
+	background-position: 0 -1111px;
+	height: 50px;
+	width: 50px
+}
+.icone-gim, .sulamericana .tbl-st-team>.tbl-team-GIM::before, .sulamericana .tbl-away>.tbl-team-GIM::before, .sulamericana .tbl-home>.tbl-team-GIM::after {
+	background-position: -50px -1111px;
+	height: 50px;
+	width: 50px
+}
+.icone-glb, .tds_times .tbl-st-team>.tbl-team-GLB::before, .tds_times .tbl-away>.tbl-team-GLB::before, .tds_times .tbl-home>.tbl-team-GLB::after {
+	background-position: -50px -1161px;
+	height: 50px;
+	width: 50px
+}
+.icone-goi, .tds_times .tbl-st-team>.tbl-team-GOI::before, .tds_times .tbl-away>.tbl-team-GOI::before, .tds_times .tbl-home>.tbl-team-GOI::after {
+	background-position: 0 -1261px;
+	height: 50px;
+	width: 50px
+}
+.icone-gplus {
+	background-position: 0 -138px;
+	height: 29px;
+	width: 29px
+}
+.icone-gre, .tds_times .tbl-st-team>.tbl-team-GRE::before, .tds_times .tbl-away>.tbl-team-GRE::before, .tds_times .tbl-home>.tbl-team-GRE::after {
+	background-position: 0 -1211px;
+	height: 50px;
+	width: 50px
+}
+.icone-gur, .tds_times .tbl-st-team>.tbl-team-GUR::before, .tds_times .tbl-away>.tbl-team-GUR::before, .tds_times .tbl-home>.tbl-team-GUR::after {
+	background-position: -50px -1211px;
+	height: 50px;
+	width: 50px
+}
+.icone-star-p {
+	background-position: -90px -168px;
+	height: 32px;
+	width: 35px
+}
+.icone-her {
+	background-position: -50px -1261px;
+	height: 50px;
+	width: 50px
+}
+.icone-hua, .sulamericana .tbl-st-team>.tbl-team-SHU::before, .sulamericana .tbl-away>.tbl-team-SHU::before, .sulamericana .tbl-home>.tbl-team-SHU::after, .sulamericana .icone-shu {
+	background-position: 0 -1361px;
+	height: 50px;
+	width: 50px
+}
+.icone-hur, .sulamericana .tbl-st-team>.tbl-team-HUR::before, .sulamericana .tbl-away>.tbl-team-HUR::before, .sulamericana .tbl-home>.tbl-team-HUR::after {
+	background-position: 0 -1311px;
+	height: 50px;
+	width: 50px
+}
+.icone-ind, .sulamericana .tbl-st-team>.tbl-team-IND::before, .sulamericana .tbl-away>.tbl-team-IND::before, .sulamericana .tbl-home>.tbl-team-IND::after {
+	background-position: -50px -1311px;
+	height: 50px;
+	width: 50px
+}
+.icone-ingressos-p {
+	background-position: -64px -4570px;
+	height: 27px;
+	width: 28px
+}
+.icone-ingressos {
+	background-position: 0 -5268px;
+	height: 131px;
+	width: 114px
+}
+.icone-inl, .tds_times .tbl-st-team>.tbl-team-INL::before, .tds_times .tbl-away>.tbl-team-INL::before, .tds_times .tbl-home>.tbl-team-INL::after {
+	background-position: -50px -1361px;
+	height: 50px;
+	width: 50px
+}
+.icone-instagram-f {
+	background-position: 0 -4211px;
+	height: 50px;
+	width: 49px
+}
+.icone-instagram {
+	background-position: -31px -108px;
+	height: 30px;
+	width: 31px
+}
+.icone-instagram:hover, .icone-instagram.instagram-hover {
+	background-position: -60px -138px
+}
+.icone-int, .tds_times .tbl-st-team>.tbl-team-INT::before, .tds_times .tbl-away>.tbl-team-INT::before, .tds_times .tbl-home>.tbl-team-INT::after {
+	background-position: 0 -1461px;
+	height: 50px;
+	width: 50px
+}
+.icone-iqu, .sulamericana .tbl-st-team>.tbl-team-IQU::before, .sulamericana .tbl-away>.tbl-team-IQU::before, .sulamericana .tbl-home>.tbl-team-IQU::after {
+	background-position: 0 -1411px;
+	height: 50px;
+	width: 50px
+}
+.icone-ita, .tds_times .tbl-st-team>.tbl-team-ITA::before, .tds_times .tbl-away>.tbl-team-ITA::before, .tds_times .tbl-home>.tbl-team-ITA::after {
+	background-position: -50px -1411px;
+	height: 50px;
+	width: 50px
+}
+.icone-joi, .tds_times .tbl-st-team>.tbl-team-JOI::before, .tds_times .tbl-away>.tbl-team-JOI::before, .tds_times .tbl-home>.tbl-team-JOI::after {
+	background-position: -50px -1461px;
+	height: 50px;
+	width: 50px
+}
+.icone-jua, .sulamericana .tbl-st-team>.tbl-team-JUA::before, .sulamericana .tbl-away>.tbl-team-JUA::before, .sulamericana .tbl-home>.tbl-team-JUA::after {
+	background-position: 0 -1561px;
+	height: 50px;
+	width: 50px
+}
+.icone-jun, .sulamericana .tbl-st-team>.tbl-team-JUN::before, .sulamericana .tbl-away>.tbl-team-JUN::before, .sulamericana .tbl-home>.tbl-team-JUN::after {
+	background-position: 0 -1511px;
+	height: 50px;
+	width: 50px
+}
+.icone-juv, .tds_times .tbl-st-team>.tbl-team-JUV::before, .tds_times .tbl-away>.tbl-team-JUV::before, .tds_times .tbl-home>.tbl-team-JUV::after {
+	background-position: -50px -1511px;
+	height: 50px;
+	width: 50px
+}
+.icone-lan, .tds_times .tbl-st-team>.tbl-team-LAN::before, .tds_times .tbl-away>.tbl-team-LAN::before, .tds_times .tbl-home>.tbl-team-LAN::after {
+	background-position: -50px -1561px;
+	height: 50px;
+	width: 50px
+}
+.icone-ldu, .sulamericana .tbl-st-team>.tbl-team-LDU::before, .sulamericana .tbl-away>.tbl-team-LDU::before, .sulamericana .tbl-home>.tbl-team-LDU::after {
+	background-position: 0 -1661px;
+	height: 50px;
+	width: 50px
+}
+.icone-lib, .sulamericana .tbl-st-team>.tbl-team-LIB::before, .sulamericana .tbl-away>.tbl-team-LIB::before, .sulamericana .tbl-home>.tbl-team-LIB::after {
+	background-position: 0 -1611px;
+	height: 50px;
+	width: 50px
+}
+.icone-liv, .sulamericana .tbl-st-team>.tbl-team-LIV::before, .sulamericana .tbl-away>.tbl-team-LIV::before, .sulamericana .tbl-home>.tbl-team-LIV::after {
+	background-position: -50px -1611px;
+	height: 50px;
+	width: 50px
+}
+.icone-lon, .tds_times .tbl-st-team>.tbl-team-LON::before, .tds_times .tbl-away>.tbl-team-LON::before, .tds_times .tbl-home>.tbl-team-LON::after {
+	background-position: -50px -1661px;
+	height: 50px;
+	width: 50px
+}
+.icone-lupa {
+	background-position: -14px -30px;
+	height: 23px;
+	width: 23px
+}
+.icone-luv, .tds_times .tbl-st-team>.tbl-team-LUV::before, .tds_times .tbl-away>.tbl-team-LUV::before, .tds_times .tbl-home>.tbl-team-LUV::after {
+	background-position: 0 -1761px;
+	height: 50px;
+	width: 50px
+}
+.icone-luz, .tds_times .tbl-st-team>.tbl-team-LUZ::before, .tds_times .tbl-away>.tbl-team-LUZ::before, .tds_times .tbl-home>.tbl-team-LUZ::after {
+	background-position: 0 -1711px;
+	height: 50px;
+	width: 50px
+}
+.icone-mot, .tds_times .tbl-st-team>.tbl-team-MOT::before, .tds_times .tbl-away>.tbl-team-MOT::before, .tds_times .tbl-home>.tbl-team-MOT::after {
+	background-position: -50px -1711px;
+	height: 50px;
+	width: 50px
+}
+.icone-mtp, .tds_times .tbl-st-team>.tbl-team-MTP::before, .tds_times .tbl-away>.tbl-team-MTP::before, .tds_times .tbl-home>.tbl-team-MTP::after {
+	background-position: -50px -1761px;
+	height: 50px;
+	width: 50px
+}
+.icone-mundo {
+	background-position: -64px -4211px;
+	height: 59px;
+	width: 59px
+}
+.icone-mur, .tds_times .tbl-st-team>.tbl-team-MUR::before, .tds_times .tbl-away>.tbl-team-MUR::before, .tds_times .tbl-home>.tbl-team-MUR::after {
+	background-position: 0 -1861px;
+	height: 50px;
+	width: 50px
+}
+
+.icone-mcd{
+	background-position: 0 -2511px;
+	height: 50px;
+	width: 50px
+}
+
+.icone-nac {
+	background-position: 0 -1811px;
+	height: 50px;
+	width: 50px
+}
+.icone-nau, .tds_times .tbl-st-team>.tbl-team-NAU::before, .tds_times .tbl-away>.tbl-team-NAU::before, .tds_times .tbl-home>.tbl-team-NAU::after {
+	background-position: -50px -1811px;
+	height: 50px;
+	width: 50px
+}
+.icone-ncn, .sulamericana .tbl-st-team>.tbl-team-NAP::before, .sulamericana .tbl-away>.tbl-team-NAP::before, .sulamericana .tbl-home>.tbl-team-NAP::after, .sulamericana .icone-nap {
+	background-position: -50px -1861px;
+	height: 50px;
+	width: 50px
+}
+.icone-ncp, .sulamericana .tbl-st-team>.tbl-team-NPO::before, .sulamericana .tbl-away>.tbl-team-NPO::before, .sulamericana .tbl-home>.tbl-team-NPO::after, .sulamericana .icone-npo {
+	background-position: 0 -1961px;
+	height: 50px;
+	width: 50px
+}
+.icone-nur, .tds_times .tbl-st-team>.tbl-team-NUR::before, .tds_times .tbl-away>.tbl-team-NUR::before, .tds_times .tbl-home>.tbl-team-NUR::after {
+	background-position: 0 -1911px;
+	height: 50px;
+	width: 50px
+}
+.icone-oes, .tds_times .tbl-st-team>.tbl-team-OES::before, .tds_times .tbl-away>.tbl-team-OES::before, .tds_times .tbl-home>.tbl-team-OES::after {
+	background-position: -50px -1911px;
+	height: 50px;
+	width: 50px
+}
+.icone-ohi, .sulamericana .tbl-st-team>.tbl-team-OHI::before, .sulamericana .tbl-away>.tbl-team-OHI::before, .sulamericana .tbl-home>.tbl-team-OHI::after {
+	background-position: -50px -1961px;
+	height: 50px;
+	width: 50px
+}
+.icone-oli, .sulamericana .tbl-st-team>.tbl-team-OLI::before, .sulamericana .tbl-away>.tbl-team-OLI::before, .sulamericana .tbl-home>.tbl-team-OLI::after {
+	background-position: 0 -2061px;
+	height: 50px;
+	width: 50px
+}
+.icone-ope, .sulamericana .tbl-st-team>.tbl-team-ORI::before, .sulamericana .tbl-away>.tbl-team-ORI::before, .sulamericana .tbl-home>.tbl-team-ORI::after, .sulamericana .icone-ori {
+	background-position: 0 -2011px;
+	height: 50px;
+	width: 50px
+}
+.icone-pal, .tds_times .tbl-st-team>.tbl-team-PAL::before, .tds_times .tbl-away>.tbl-team-PAL::before, .tds_times .tbl-home>.tbl-team-PAL::after {
+	background-position: -50px -2011px;
+	height: 50px;
+	width: 50px
+}
+.icone-palestino, .sulamericana .tbl-st-team>.tbl-team-PAL::before, .sulamericana .tbl-away>.tbl-team-PAL::before, .sulamericana .tbl-home>.tbl-team-PAL::after, .sulamericana .icone-pal, .sulamericana .tds_times .tbl-st-team>.tbl-team-PAL::before, .sulamericana .tds_times .tbl-away>.tbl-team-PAL::before, .sulamericana .tds_times .tbl-home>.tbl-team-PAL::after {
+	background-position: -50px -2061px;
+	height: 50px;
+	width: 50px
+}
+.icone-par, .tds_times .tbl-st-team>.tbl-team-PAR::before, .tds_times .tbl-away>.tbl-team-PAR::before, .tds_times .tbl-home>.tbl-team-PAR::after {
+	background-position: 0 -2161px;
+	height: 50px;
+	width: 50px
+}
+.icone-pat, .sulamericana .tbl-st-team>.tbl-team-PAT::before, .sulamericana .tbl-away>.tbl-team-PAT::before, .sulamericana .tbl-home>.tbl-team-PAT::after {
+	background-position: 0 -2111px;
+	height: 50px;
+	width: 50px
+}
+.icone-pay, .tds_times .tbl-st-team>.tbl-team-PAY::before, .tds_times .tbl-away>.tbl-team-PAY::before, .tds_times .tbl-home>.tbl-team-PAY::after {
+	background-position: -50px -2111px;
+	height: 50px;
+	width: 50px
+}
+.icone-pin {
+	background-position: -57px -4582px;
+	height: 80px;
+	width: 55px
+}
+.icone-pinheiro {
+	background-position: -69px -4270px;
+	height: 59px;
+	width: 59px
+}
+.icone-play-hino {
+	background-position: -24px 0;
+	height: 30px;
+	width: 26px
+}
+.icone-play {
+	background-position: 0 -4662px;
+	height: 86px;
+	width: 86px
+}
+.icone-pon, .tds_times .tbl-st-team>.tbl-team-PON::before, .tds_times .tbl-away>.tbl-team-PON::before, .tds_times .tbl-home>.tbl-team-PON::after {
+	background-position: -50px -3611px;
+	height: 50px;
+	width: 50px
+}
+.icone-por, .tds_times .tbl-st-team>.tbl-team-POR::before, .tds_times .tbl-away>.tbl-team-POR::before, .tds_times .tbl-home>.tbl-team-POR::after {
+	background-position: -50px -3661px;
+	height: 50px;
+	width: 50px
+}
+.icone-pri, .tds_times .tbl-st-team>.tbl-team-PRI::before, .tds_times .tbl-away>.tbl-team-PRI::before, .tds_times .tbl-home>.tbl-team-PRI::after {
+	background-position: 0 -3761px;
+	height: 50px;
+	width: 50px
+}
+.icone-pst, .tds_times .tbl-st-team>.tbl-team-PST::before, .tds_times .tbl-away>.tbl-team-PST::before, .tds_times .tbl-home>.tbl-team-PST::after {
+	background-position: 0 -3711px;
+	height: 50px;
+	width: 50px
+}
+.icone-rac, .sulamericana .tbl-st-team>.tbl-team-RAC::before, .sulamericana .tbl-away>.tbl-team-RAC::before, .sulamericana .tbl-home>.tbl-team-RAC::after {
+	background-position: -50px -3711px;
+	height: 50px;
+	width: 50px
+}
+.icone-rad, .sulamericana .tbl-st-team>.tbl-team-RNA::before, .sulamericana .tbl-away>.tbl-team-RNA::before, .sulamericana .tbl-home>.tbl-team-RNA::after, .sulamericana .icone-rna {
+	background-position: -50px -3761px;
+	height: 50px;
+	width: 50px
+}
+.icone-rba, .tds_times .tbl-st-team>.tbl-team-RBA::before, .tds_times .tbl-away>.tbl-team-RBA::before, .tds_times .tbl-home>.tbl-team-RBA::after {
+	background-position: 0 -3861px;
+	height: 50px;
+	width: 50px
+}
+.icone-rdn, .tds_times .tbl-st-team>.tbl-team-RDN::before, .tds_times .tbl-away>.tbl-team-RDN::before, .tds_times .tbl-home>.tbl-team-RDN::after {
+	background-position: 0 -3811px;
+	height: 50px;
+	width: 50px
+}
+.icone-rem, .tds_times .tbl-st-team>.tbl-team-REM::before, .tds_times .tbl-away>.tbl-team-REM::before, .tds_times .tbl-home>.tbl-team-REM::after {
+	background-position: -50px -3811px;
+	height: 50px;
+	width: 50px
+}
+.icone-riv, .tds_times .tbl-st-team>.tbl-team-RIV::before, .tds_times .tbl-away>.tbl-team-RIV::before, .tds_times .tbl-home>.tbl-team-RIV::after {
+	background-position: -50px -3861px;
+	height: 50px;
+	width: 50px
+}
+.icone-saa, .tds_times .tbl-st-team>.tbl-team-SAA::before, .tds_times .tbl-away>.tbl-team-SAA::before, .tds_times .tbl-home>.tbl-team-SAA::after {
+	background-position: 0 -3961px;
+	height: 50px;
+	width: 50px
+}
+.icone-sal, .tds_times .tbl-st-team>.tbl-team-SAL::before, .tds_times .tbl-away>.tbl-team-SAL::before, .tds_times .tbl-home>.tbl-team-SAL::after {
+	background-position: 0 -3911px;
+	height: 50px;
+	width: 50px
+}
+.icone-sam, .tds_times .tbl-st-team>.tbl-team-SAM::before, .tds_times .tbl-away>.tbl-team-SAM::before, .tds_times .tbl-home>.tbl-team-SAM::after {
+	background-position: -50px -3911px;
+	height: 50px;
+	width: 50px
+}
+.icone-san, .tds_times .tbl-st-team>.tbl-team-SAN::before, .tds_times .tbl-away>.tbl-team-SAN::before, .tds_times .tbl-home>.tbl-team-SAN::after {
+	background-position: -50px -3961px;
+	height: 50px;
+	width: 50px
+}
+.icone-sem-escudo, .tds_times .tbl-st-team>span::before, .tds_times .tbl-away>span::before, .tds_times .tbl-home>span::after {
+	background-position: 0 -4061px;
+	height: 50px;
+	width: 50px
+}
+.icone-ser, .tds_times .tbl-st-team>.tbl-team-SER::before, .tds_times .tbl-away>.tbl-team-SER::before, .tds_times .tbl-home>.tbl-team-SER::after {
+	background-position: 0 -4011px;
+	height: 50px;
+	width: 50px
+}
+.icone-set, .tds_times .tbl-st-team>.tbl-team-SET::before, .tds_times .tbl-away>.tbl-team-SET::before, .tds_times .tbl-home>.tbl-team-SET::after {
+	background-position: -50px -4011px;
+	height: 50px;
+	width: 50px
+}
+.icone-sfe, .sulamericana .tbl-st-team>.tbl-team-SFE::before, .sulamericana .tbl-away>.tbl-team-SFE::before, .sulamericana .tbl-home>.tbl-team-SFE::after {
+	background-position: -50px -4061px;
+	height: 50px;
+	width: 50px
+}
+.icone-sfr, .tds_times .tbl-st-team>.tbl-team-SFR::before, .tds_times .tbl-away>.tbl-team-SFR::before, .tds_times .tbl-home>.tbl-team-SFR::after {
+	background-position: 0 -4161px;
+	height: 50px;
+	width: 50px
+}
+.icone-shop-m {
+	background-position: 0 -4270px;
+	height: 52px;
+	width: 69px
+}
+.icone-shop {
+	background-position: 0 -200px;
+	height: 25px;
+	width: 32px
+}
+.icone-sin, .tds_times .tbl-st-team>.tbl-team-SIN::before, .tds_times .tbl-away>.tbl-team-SIN::before, .tds_times .tbl-home>.tbl-team-SIN::after {
+	background-position: 0 -4111px;
+	height: 50px;
+	width: 50px
+}
+.icone-sjo, .tds_times .tbl-st-team>.tbl-team-SJO::before, .tds_times .tbl-away>.tbl-team-SJO::before, .tds_times .tbl-home>.tbl-team-SJO::after {
+	background-position: -50px -4111px;
+	height: 50px;
+	width: 50px
+}
+.icone-socio-contribuinte-g {
+	background-position: 0 -5140px;
+	height: 128px;
+	width: 126px
+}
+.icone-socio-contribuinte {
+	background-position: -67px -4329px;
+	height: 62px;
+	width: 61px
+}
+.icone-socio-cooperado-g {
+	background-position: 0 -5531px;
+	height: 132px;
+	width: 132px
+}
+.icone-socio-cooperado {
+	background-position: -64px -4454px;
+	height: 64px;
+	width: 64px
+}
+.icone-socio-mundo-g {
+	background-position: 0 -5445px;
+	height: 140px;
+	width: 140px;
+}
+.icone-socio-mundo {
+	background-position: -61px -4506px;
+	height: 64px;
+	width: 64px
+}
+.icone-socio-torcedor-g {
+	background-position: 0 -5054px;
+	height: 140px;
+	width: 140px
+}
+.icone-socio-torcedor {
+	background-position: -59px -4381px;
+	height: 62px;
+	width: 67px
+}
+.icone-sol, .sulamericana .tbl-st-team>.tbl-team-SOL::before, .sulamericana .tbl-away>.tbl-team-SOL::before, .sulamericana .tbl-home>.tbl-team-SOL::after {
+	background-position: -50px -3011px;
+	height: 50px;
+	width: 50px
+}
+.icone-spl, .tds_times .tbl-st-team>.tbl-team-SPL::before, .tds_times .tbl-away>.tbl-team-SPL::before, .tds_times .tbl-home>.tbl-team-SPL::after {
+	background-position: 0 -3961px;
+	height: 50px;
+	width: 50px
+}
+.icone-spo, .tds_times .tbl-st-team>.tbl-team-SPO::before, .tds_times .tbl-away>.tbl-team-SPO::before, .tds_times .tbl-home>.tbl-team-SPO::after {
+	background-position: 0 -3161px;
+	height: 50px;
+	width: 50px
+}
+.icone-sportivo-luqueno, .sulamericana .tbl-st-team>.tbl-team-LUQ::before, .sulamericana .tbl-away>.tbl-team-LUQ::before, .sulamericana .tbl-home>.tbl-team-LUQ::after, .sulamericana .icone-luq {
+	background-position: 0 -3111px;
+	height: 50px;
+	width: 50px
+}
+.icone-sra, .tds_times .tbl-st-team>.tbl-team-SRA::before, .tds_times .tbl-away>.tbl-team-SRA::before, .tds_times .tbl-home>.tbl-team-SRA::after {
+	background-position: -50px -3111px;
+	height: 50px;
+	width: 50px
+}
+.icone-srr, .tds_times .tbl-st-team>.tbl-team-SRR::before, .tds_times .tbl-away>.tbl-team-SRR::before, .tds_times .tbl-home>.tbl-team-SRR::after {
+	background-position: -50px -3161px;
+	height: 50px;
+	width: 50px
+}
+.icone-heart-p {
+	background-position: 0 -279px;
+	height: 32px;
+	width: 35px
+}
+.icone-star-s {
+	background-position: 0 -30px;
+	height: 13px;
+	width: 14px
+}
+.icone-star {
+	background-position: 0 -4211px;
+	height: 59px;
+	width: 64px
+}
+.icone-stc, .tds_times .tbl-st-team>.tbl-team-STC::before, .tds_times .tbl-away>.tbl-team-STC::before, .tds_times .tbl-home>.tbl-team-STC::after {
+	background-position: 0 -3261px;
+	height: 50px;
+	width: 50px
+}
+.icone-teste {
+	background-position: 0 -3211px;
+	height: 50px;
+	width: 50px
+}
+.icone-tfc, .tds_times .tbl-st-team>.tbl-team-TFC::before, .tds_times .tbl-away>.tbl-team-TFC::before, .tds_times .tbl-home>.tbl-team-TFC::after {
+	background-position: -50px -3211px;
+	height: 50px;
+	width: 50px
+}
+.icone-tlm, .sulamericana .tbl-st-team>.tbl-team-DTO::before, .sulamericana .tbl-away>.tbl-team-DTO::before, .sulamericana .tbl-home>.tbl-team-DTO::after, .sulamericana .icone-dto {
+	background-position: -50px -3261px;
+	height: 50px;
+	width: 50px
+}
+.icone-tub {
+	background-position: 0 -3361px;
+	height: 50px;
+	width: 50px
+}
+.icone-tuc, .sulamericana .tbl-st-team>.tbl-team-ATC::before, .sulamericana .tbl-away>.tbl-team-ATC::before, .sulamericana .tbl-home>.tbl-team-ATC::after, .sulamericana .icone-atc {
+	background-position: 0 -3311px;
+	height: 50px;
+	width: 50px
+}
+.icone-tv, .chape_tv .h1 span.tv {
+	background-position: -59px -4391px;
+	height: 63px;
+	width: 66px
+}
+.icone-tw {
+	background-position: -93px -30px;
+	height: 29px;
+	width: 30px
+}
+.icone-twitter-chape {
+	background-position: 0 -230px;
+	height: 44px;
+	width: 44px
+}
+.icone-twitter-f {
+	background-position: -66px -59px;
+	height: 49px;
+	width: 49px
+}
+.icone-twitter {
+	background-position: 0 -108px;
+	height: 30px;
+	width: 31px
+}
+.icone-twitter:hover, .icone-twitter.twitter-hover {
+	background-position: -29px -138px
+}
+.icone-unc, .tds_times .tbl-st-team>.tbl-team-UNC::before, .tds_times .tbl-away>.tbl-team-UNC::before, .tds_times .tbl-home>.tbl-team-UNC::after {
+	background-position: -50px -3311px;
+	height: 50px;
+	width: 50px
+}
+.icone-universidad-chile, .sulamericana .tbl-st-team>.tbl-team-UNC::before, .sulamericana .tbl-away>.tbl-team-UNC::before, .sulamericana .tbl-home>.tbl-team-UNC::after, .sulamericana .icone-unc, .sulamericana .tds_times .tbl-st-team>.tbl-team-UNC::before, .sulamericana .tds_times .tbl-away>.tbl-team-UNC::before, .sulamericana .tds_times .tbl-home>.tbl-team-UNC::after {
+	background-position: -50px -3361px;
+	height: 50px;
+	width: 50px
+}
+.icone-unq, .sulamericana .tbl-st-team>.tbl-team-UCE::before, .sulamericana .tbl-away>.tbl-team-UCE::before, .sulamericana .tbl-home>.tbl-team-UCE::after, .sulamericana .icone-uce {
+	background-position: 0 -3461px;
+	height: 50px;
+	width: 50px
+}
+.icone-urd, .tds_times .tbl-st-team>.tbl-team-URD::before, .tds_times .tbl-away>.tbl-team-URD::before, .tds_times .tbl-home>.tbl-team-URD::after {
+	background-position: 0 -3411px;
+	height: 50px;
+	width: 50px
+}
+.icone-urt, .tds_times .tbl-st-team>.tbl-team-URT::before, .tds_times .tbl-away>.tbl-team-URT::before, .tds_times .tbl-home>.tbl-team-URT::after {
+	background-position: -50px -3411px;
+	height: 50px;
+	width: 50px
+}
+.icone-vas, .tds_times .tbl-st-team>.tbl-team-VAS::before, .tds_times .tbl-away>.tbl-team-VAS::before, .tds_times .tbl-home>.tbl-team-VAS::after {
+	background-position: -50px -3461px;
+	height: 50px;
+	width: 50px
+}
+.icone-vic, .tds_times .tbl-st-team>.tbl-team-VIC::before, .tds_times .tbl-away>.tbl-team-VIC::before, .tds_times .tbl-home>.tbl-team-VIC::after {
+	background-position: 0 -3561px;
+	height: 50px;
+	width: 50px
+}
+.icone-vil, .tds_times .tbl-st-team>.tbl-team-VIL::before, .tds_times .tbl-away>.tbl-team-VIL::before, .tds_times .tbl-home>.tbl-team-VIL::after {
+	background-position: 0 -3511px;
+	height: 50px;
+	width: 50px
+}
+.icone-vit, .tds_times .tbl-st-team>.tbl-team-VIT::before, .tds_times .tbl-away>.tbl-team-VIT::before, .tds_times .tbl-home>.tbl-team-VIT::after {
+	background-position: -50px -3511px;
+	height: 50px;
+	width: 50px
+}
+.icone-vol, .tds_times .tbl-st-team>.tbl-team-VOL::before, .tds_times .tbl-away>.tbl-team-VOL::before, .tds_times .tbl-home>.tbl-team-VOL::after {
+	background-position: -50px -3561px;
+	height: 50px;
+	width: 50px
+}
+.icone-youtube-chape {
+	background-position: 0 -4924px;
+	height: 88px;
+	width: 88px
+}
+.icone-youtube-f {
+	background-position: -44px -230px;
+	height: 49px;
+	width: 49px
+}
+.icone-youtube {
+	background-position: -62px -200px;
+	height: 30px;
+	width: 30px
+}
+.icone-youtube:hover, .icone-youtube.youtube-hover {
+	background-position: -92px -200px
+}
+.icone-ypi, .tds_times .tbl-st-team>.tbl-team-YPI::before, .tds_times .tbl-away>.tbl-team-YPI::before, .tds_times .tbl-home>.tbl-team-YPI::after {
+	background-position: 0 -3661px;
+	height: 50px;
+	width: 50px
+}
+.icone-zul, .tds_times .tbl-st-team>.tbl-team-ZUL::before, .tds_times .tbl-away>.tbl-team-ZUL::before, .tds_times .tbl-home>.tbl-team-ZUL::after {
+	background-position: -50px -2161px;
+	height: 50px;
+	width: 50px
+}
+.icone-user{
+	background-position: -81px -4728px;
+	height: 32px;
+	width: 32px;
+	border: 2px solid #f5f5f5;
+	margin-top: 10px;
+}
+
+.icone-sprite, .icone-aac, .tds_times .tbl-st-team>.tbl-team-AAC::before, .tds_times .tbl-away>.tbl-team-AAC::before, .tds_times .tbl-home>.tbl-team-AAC::after, .icone-abc, .tds_times .tbl-st-team>.tbl-team-ABC::before, .tds_times .tbl-away>.tbl-team-ABC::before, .tds_times .tbl-home>.tbl-team-ABC::after, .icone-ali, .sulamericana .tbl-st-team>.tbl-team-ALI::before, .sulamericana .tbl-away>.tbl-team-ALI::before, .sulamericana .tbl-home>.tbl-team-ALI::after, .icone-alm, .tds_times .tbl-st-team>.tbl-team-ALM::before, .tds_times .tbl-away>.tbl-team-ALM::before, .tds_times .tbl-home>.tbl-team-ALM::after, .icone-alt, .tds_times .tbl-st-team>.tbl-team-ALT::before, .tds_times .tbl-away>.tbl-team-ALT::before, .tds_times .tbl-home>.tbl-team-ALT::after, .icone-amg, .tds_times .tbl-st-team>.tbl-team-AMG::before, .tds_times .tbl-away>.tbl-team-AMG::before, .tds_times .tbl-home>.tbl-team-AMG::after, .icone-ana, .tds_times .tbl-st-team>.tbl-team-ANA::before, .tds_times .tbl-away>.tbl-team-ANA::before, .tds_times .tbl-home>.tbl-team-ANA::after, .icone-anp, .tds_times .tbl-st-team>.tbl-team-ANP::before, .tds_times .tbl-away>.tbl-team-ANP::before, .tds_times .tbl-home>.tbl-team-ANP::after, .icone-arrow-bow, .icone-ars, .sulamericana .tbl-st-team>.tbl-team-ARS::before, .sulamericana .tbl-away>.tbl-team-ARS::before, .sulamericana .tbl-home>.tbl-team-ARS::after, .icone-asa, .tds_times .tbl-st-team>.tbl-team-ASA::before, .tds_times .tbl-away>.tbl-team-ASA::before, .tds_times .tbl-home>.tbl-team-ASA::after, .icone-atg, .tds_times .tbl-st-team>.tbl-team-ATG::before, .tds_times .tbl-away>.tbl-team-ATG::before, .tds_times .tbl-home>.tbl-team-ATG::after, .icone-atl, .tds_times .tbl-st-team>.tbl-team-ATL::before, .tds_times .tbl-away>.tbl-team-ATL::before, .tds_times .tbl-home>.tbl-team-ATL::after, .icone-atu, .tds_times .tbl-st-team>.tbl-team-ATU::before, .tds_times .tbl-away>.tbl-team-ATU::before, .tds_times .tbl-home>.tbl-team-ATU::after, .icone-atv, .sulamericana .tbl-st-team>.tbl-team-ATV::before, .sulamericana .tbl-away>.tbl-team-ATV::before, .sulamericana .tbl-home>.tbl-team-ATV::after, .icone-aud, .tds_times .tbl-st-team>.tbl-team-AUD::before, .tds_times .tbl-away>.tbl-team-AUD::before, .tds_times .tbl-home>.tbl-team-AUD::after, .icone-ava, .tds_times .tbl-st-team>.tbl-team-AVA::before, .tds_times .tbl-away>.tbl-team-AVA::before, .tds_times .tbl-home>.tbl-team-AVA::after, .icone-aviso-escuro, .newsletter .form-error.form-group .desc_erro, .icone-aviso, .form-error .desc_erro, .icone-bah, .tds_times .tbl-st-team>.tbl-team-BAH::before, .tds_times .tbl-away>.tbl-team-BAH::before, .tds_times .tbl-home>.tbl-team-BAH::after, .icone-ben, .tds_times .tbl-st-team>.tbl-team-BEN::before, .tds_times .tbl-away>.tbl-team-BEN::before, .tds_times .tbl-home>.tbl-team-BEN::after, .icone-boa, .tds_times .tbl-st-team>.tbl-team-BOA::before, .tds_times .tbl-away>.tbl-team-BOA::before, .tds_times .tbl-home>.tbl-team-BOA::after, .icone-bol, .sulamericana .tbl-st-team>.tbl-team-BOL::before, .sulamericana .tbl-away>.tbl-team-BOL::before, .sulamericana .tbl-home>.tbl-team-BOL::after, .icone-bor, .sulamericana .tbl-st-team>.tbl-team-BOS::before, .sulamericana .tbl-away>.tbl-team-BOS::before, .sulamericana .tbl-home>.tbl-team-BOS::after, .sulamericana .icone-bos, .icone-bot, .tds_times .tbl-st-team>.tbl-team-BOT::before, .tds_times .tbl-away>.tbl-team-BOT::before, .tds_times .tbl-home>.tbl-team-BOT::after, .icone-bov, .tds_times .tbl-st-team>.tbl-team-BOV::before, .tds_times .tbl-away>.tbl-team-BOV::before, .tds_times .tbl-home>.tbl-team-BOV::after, .icone-bpb, .tds_times .tbl-st-team>.tbl-team-BPB::before, .tds_times .tbl-away>.tbl-team-BPB::before, .tds_times .tbl-home>.tbl-team-BPB::after, .icone-brg, .tds_times .tbl-st-team>.tbl-team-BRG::before, .tds_times .tbl-away>.tbl-team-BRG::before, .tds_times .tbl-home>.tbl-team-BRG::after, .icone-bru, .tds_times .tbl-st-team>.tbl-team-BRU::before, .tds_times .tbl-away>.tbl-team-BRU::before, .tds_times .tbl-home>.tbl-team-BRU::after, .icone-btn-news, .icone-btn-ok, .icone-btn-star, .icone-cal, .tds_times .tbl-st-team>.tbl-team-CAL::before, .tds_times .tbl-away>.tbl-team-CAL::before, .tds_times .tbl-home>.tbl-team-CAL::after, .icone-cam, .tds_times .tbl-st-team>.tbl-team-CAM::before, .tds_times .tbl-away>.tbl-team-CAM::before, .tds_times .tbl-home>.tbl-team-CAM::after, .icone-camera, .icone-cap, .tds_times .tbl-st-team>.tbl-team-CAP::before, .tds_times .tbl-away>.tbl-team-CAP::before, .tds_times .tbl-home>.tbl-team-CAP::after, .icone-car, .sulamericana .tbl-st-team>.tbl-team-CAR::before, .sulamericana .tbl-away>.tbl-team-CAR::before, .sulamericana .tbl-home>.tbl-team-CAR::after, .icone-cdp, .sulamericana .tbl-st-team>.tbl-team-PET::before, .sulamericana .tbl-away>.tbl-team-PET::before, .sulamericana .tbl-home>.tbl-team-PET::after, .sulamericana .icone-pet, .icone-cea, .tds_times .tbl-st-team>.tbl-team-CEA::before, .tds_times .tbl-away>.tbl-team-CEA::before, .tds_times .tbl-home>.tbl-team-CEA::after, .icone-cei, .tds_times .tbl-st-team>.tbl-team-CEI::before, .tds_times .tbl-away>.tbl-team-CEI::before, .tds_times .tbl-home>.tbl-team-CEI::after, .icone-cer, .sulamericana .tbl-st-team>.tbl-team-CER::before, .sulamericana .tbl-away>.tbl-team-CER::before, .sulamericana .tbl-home>.tbl-team-CER::after, .icone-cfc, .tds_times .tbl-st-team>.tbl-team-CFC::before, .tds_times .tbl-away>.tbl-team-CFC::before, .tds_times .tbl-home>.tbl-team-CFC::after, .icone-cha, .tds_times .tbl-st-team>.tbl-team-CHA::before, .tds_times .tbl-away>.tbl-team-CHA::before, .tds_times .tbl-home>.tbl-team-CHA::after, .icone-chape-tv, .icone-check, .icone-cmp, .tds_times .tbl-st-team>.tbl-team-CMP::before, .tds_times .tbl-away>.tbl-team-CMP::before, .tds_times .tbl-home>.tbl-team-CMP::after, .icone-cms, .tds_times .tbl-st-team>.tbl-team-CMS::before, .tds_times .tbl-away>.tbl-team-CMS::before, .tds_times .tbl-home>.tbl-team-CMS::after, .icone-con, .icone-cor, .tds_times .tbl-st-team>.tbl-team-COR::before, .tds_times .tbl-away>.tbl-team-COR::before, .tds_times .tbl-home>.tbl-team-COR::after, .icone-coracao, .icone-cou, .sulamericana .tbl-st-team>.tbl-team-COM::before, .sulamericana .tbl-away>.tbl-team-COM::before, .sulamericana .tbl-home>.tbl-team-COM::after, .sulamericana .icone-com, .icone-crb, .tds_times .tbl-st-team>.tbl-team-CRB::before, .tds_times .tbl-away>.tbl-team-CRB::before, .tds_times .tbl-home>.tbl-team-CRB::after, .icone-cri, .tds_times .tbl-st-team>.tbl-team-CRI::before, .tds_times .tbl-away>.tbl-team-CRI::before, .tds_times .tbl-home>.tbl-team-CRI::after, .icone-cru, .tds_times .tbl-st-team>.tbl-team-CRU::before, .tds_times .tbl-away>.tbl-team-CRU::before, .tds_times .tbl-home>.tbl-team-CRU::after, .icone-csa, .tds_times .tbl-st-team>.tbl-team-CSA::before, .tds_times .tbl-away>.tbl-team-CSA::before, .tds_times .tbl-home>.tbl-team-CSA::after, .icone-cui, .tds_times .tbl-st-team>.tbl-team-CUI::before, .tds_times .tbl-away>.tbl-team-CUI::before, .tds_times .tbl-home>.tbl-team-CUI::after, .icone-dan, .sulamericana .tbl-st-team>.tbl-team-DAN::before, .sulamericana .tbl-away>.tbl-team-DAN::before, .sulamericana .tbl-home>.tbl-team-DAN::after, .icone-dca, .sulamericana .tbl-st-team>.tbl-team-CAL::before, .sulamericana .tbl-away>.tbl-team-CAL::before, .sulamericana .tbl-home>.tbl-team-CAL::after, .sulamericana .icone-cal, .sulamericana .tds_times .tbl-st-team>.tbl-team-CAL::before, .sulamericana .tds_times .tbl-away>.tbl-team-CAL::before, .sulamericana .tds_times .tbl-home>.tbl-team-CAL::after, .icone-def, .sulamericana .tbl-st-team>.tbl-team-DEF::before, .sulamericana .tbl-away>.tbl-team-DEF::before, .sulamericana .tbl-home>.tbl-team-DEF::after, .icone-dep, .sulamericana .tbl-st-team>.tbl-team-CUE::before, .sulamericana .tbl-away>.tbl-team-CUE::before, .sulamericana .tbl-home>.tbl-team-CUE::after, .sulamericana .icone-cue, .icone-deportivo-anzoategui, .sulamericana .tbl-st-team>.tbl-team-ANZ::before, .sulamericana .tbl-away>.tbl-team-ANZ::before, .sulamericana .tbl-home>.tbl-team-ANZ::after, .sulamericana .icone-anz, .icone-des, .tds_times .tbl-st-team>.tbl-team-DES::before, .tds_times .tbl-away>.tbl-team-DES::before, .tds_times .tbl-home>.tbl-team-DES::after, .icone-dim, .sulamericana .tbl-st-team>.tbl-team-IME::before, .sulamericana .tbl-away>.tbl-team-IME::before, .sulamericana .tbl-home>.tbl-team-IME::after, .sulamericana .icone-ime, .icone-dugout-chape, .icone-dugout-f, .icone-dugout, .icone-dyj, .sulamericana .tbl-st-team>.tbl-team-DFJ::before, .sulamericana .tbl-away>.tbl-team-DFJ::before, .sulamericana .tbl-home>.tbl-team-DFJ::after, .sulamericana .icone-dfj, .icone-esc, .sulamericana .tbl-st-team>.tbl-team-ESV::before, .sulamericana .tbl-away>.tbl-team-ESV::before, .sulamericana .tbl-home>.tbl-team-ESV::after, .sulamericana .icone-esv, .icone-est, .sulamericana .tbl-st-team>.tbl-team-EST::before, .sulamericana .tbl-away>.tbl-team-EST::before, .sulamericana .tbl-home>.tbl-team-EST::after, .icone-eve, .sulamericana .tbl-st-team>.tbl-team-EVE::before, .sulamericana .tbl-away>.tbl-team-EVE::before, .sulamericana .tbl-home>.tbl-team-EVE::after, .icone-face, .icone-facebook-chape, .icone-facebook-f, .icone-facebook, .icone-fas, .tds_times .tbl-st-team>.tbl-team-FAS::before, .tds_times .tbl-away>.tbl-team-FAS::before, .tds_times .tbl-home>.tbl-team-FAS::after, .icone-fcb, .tds_times .tbl-st-team>.tbl-team-FCB::before, .tds_times .tbl-away>.tbl-team-FCB::before, .tds_times .tbl-home>.tbl-team-FCB::after, .icone-fer, .tds_times .tbl-st-team>.tbl-team-FER::before, .tds_times .tbl-away>.tbl-team-FER::before, .tds_times .tbl-home>.tbl-team-FER::after, .icone-fig, .tds_times .tbl-st-team>.tbl-team-FIG::before, .tds_times .tbl-away>.tbl-team-FIG::before, .tds_times .tbl-home>.tbl-team-FIG::after, .icone-fla, .tds_times .tbl-st-team>.tbl-team-FLA::before, .tds_times .tbl-away>.tbl-team-FLA::before, .tds_times .tbl-home>.tbl-team-FLA::after, .icone-flag-brasil, .icone-flag-eua, .icone-flag-spain, .icone-flu, .tds_times .tbl-st-team>.tbl-team-FLU::before, .tds_times .tbl-away>.tbl-team-FLU::before, .tds_times .tbl-home>.tbl-team-FLU::after, .icone-fone-f, .icone-for, .tds_times .tbl-st-team>.tbl-team-FOR::before, .tds_times .tbl-away>.tbl-team-FOR::before, .tds_times .tbl-home>.tbl-team-FOR::after, .icone-fri, .tds_times .tbl-st-team>.tbl-team-FRI::before, .tds_times .tbl-away>.tbl-team-FRI::before, .tds_times .tbl-home>.tbl-team-FRI::after, .icone-fua, .sulamericana .tbl-st-team>.tbl-team-FUE::before, .sulamericana .tbl-away>.tbl-team-FUE::before, .sulamericana .tbl-home>.tbl-team-FUE::after, .sulamericana .icone-fue, .icone-gce, .tds_times .tbl-st-team>.tbl-team-GCE::before, .tds_times .tbl-away>.tbl-team-GCE::before, .tds_times .tbl-home>.tbl-team-GCE::after, .icone-gim, .sulamericana .tbl-st-team>.tbl-team-GIM::before, .sulamericana .tbl-away>.tbl-team-GIM::before, .sulamericana .tbl-home>.tbl-team-GIM::after, .icone-glb, .tds_times .tbl-st-team>.tbl-team-GLB::before, .tds_times .tbl-away>.tbl-team-GLB::before, .tds_times .tbl-home>.tbl-team-GLB::after, .icone-goi, .tds_times .tbl-st-team>.tbl-team-GOI::before, .tds_times .tbl-away>.tbl-team-GOI::before, .tds_times .tbl-home>.tbl-team-GOI::after, .icone-gplus, .icone-gre, .tds_times .tbl-st-team>.tbl-team-GRE::before, .tds_times .tbl-away>.tbl-team-GRE::before, .tds_times .tbl-home>.tbl-team-GRE::after, .icone-gur, .tds_times .tbl-st-team>.tbl-team-GUR::before, .tds_times .tbl-away>.tbl-team-GUR::before, .tds_times .tbl-home>.tbl-team-GUR::after, .icone-heart-p, .icone-her, .icone-hua, .sulamericana .tbl-st-team>.tbl-team-SHU::before, .sulamericana .tbl-away>.tbl-team-SHU::before, .sulamericana .tbl-home>.tbl-team-SHU::after, .sulamericana .icone-shu, .icone-hur, .sulamericana .tbl-st-team>.tbl-team-HUR::before, .sulamericana .tbl-away>.tbl-team-HUR::before, .sulamericana .tbl-home>.tbl-team-HUR::after, .icone-ind, .sulamericana .tbl-st-team>.tbl-team-IND::before, .sulamericana .tbl-away>.tbl-team-IND::before, .sulamericana .tbl-home>.tbl-team-IND::after, .icone-ingressos-p, .icone-ingressos, .icone-inl, .tds_times .tbl-st-team>.tbl-team-INL::before, .tds_times .tbl-away>.tbl-team-INL::before, .tds_times .tbl-home>.tbl-team-INL::after, .icone-instagram-f, .icone-instagram, .icone-int, .tds_times .tbl-st-team>.tbl-team-INT::before, .tds_times .tbl-away>.tbl-team-INT::before, .tds_times .tbl-home>.tbl-team-INT::after, .icone-iqu, .sulamericana .tbl-st-team>.tbl-team-IQU::before, .sulamericana .tbl-away>.tbl-team-IQU::before, .sulamericana .tbl-home>.tbl-team-IQU::after, .icone-ita, .tds_times .tbl-st-team>.tbl-team-ITA::before, .tds_times .tbl-away>.tbl-team-ITA::before, .tds_times .tbl-home>.tbl-team-ITA::after, .icone-joi, .tds_times .tbl-st-team>.tbl-team-JOI::before, .tds_times .tbl-away>.tbl-team-JOI::before, .tds_times .tbl-home>.tbl-team-JOI::after, .icone-jua, .sulamericana .tbl-st-team>.tbl-team-JUA::before, .sulamericana .tbl-away>.tbl-team-JUA::before, .sulamericana .tbl-home>.tbl-team-JUA::after, .icone-jun, .sulamericana .tbl-st-team>.tbl-team-JUN::before, .sulamericana .tbl-away>.tbl-team-JUN::before, .sulamericana .tbl-home>.tbl-team-JUN::after, .icone-juv, .tds_times .tbl-st-team>.tbl-team-JUV::before, .tds_times .tbl-away>.tbl-team-JUV::before, .tds_times .tbl-home>.tbl-team-JUV::after, .icone-lan, .tds_times .tbl-st-team>.tbl-team-LAN::before, .tds_times .tbl-away>.tbl-team-LAN::before, .tds_times .tbl-home>.tbl-team-LAN::after, .icone-ldu, .sulamericana .tbl-st-team>.tbl-team-LDU::before, .sulamericana .tbl-away>.tbl-team-LDU::before, .sulamericana .tbl-home>.tbl-team-LDU::after, .icone-lib, .sulamericana .tbl-st-team>.tbl-team-LIB::before, .sulamericana .tbl-away>.tbl-team-LIB::before, .sulamericana .tbl-home>.tbl-team-LIB::after, .icone-liv, .sulamericana .tbl-st-team>.tbl-team-LIV::before, .sulamericana .tbl-away>.tbl-team-LIV::before, .sulamericana .tbl-home>.tbl-team-LIV::after, .icone-lon, .tds_times .tbl-st-team>.tbl-team-LON::before, .tds_times .tbl-away>.tbl-team-LON::before, .tds_times .tbl-home>.tbl-team-LON::after, .icone-lupa, .icone-luv, .tds_times .tbl-st-team>.tbl-team-LUV::before, .tds_times .tbl-away>.tbl-team-LUV::before, .tds_times .tbl-home>.tbl-team-LUV::after, .icone-luz, .tds_times .tbl-st-team>.tbl-team-LUZ::before, .tds_times .tbl-away>.tbl-team-LUZ::before, .tds_times .tbl-home>.tbl-team-LUZ::after, .icone-mcd, .icone-mot, .tds_times .tbl-st-team>.tbl-team-MOT::before, .tds_times .tbl-away>.tbl-team-MOT::before, .tds_times .tbl-home>.tbl-team-MOT::after, .icone-mtp, .tds_times .tbl-st-team>.tbl-team-MTP::before, .tds_times .tbl-away>.tbl-team-MTP::before, .tds_times .tbl-home>.tbl-team-MTP::after, .icone-mundo, .icone-mur, .tds_times .tbl-st-team>.tbl-team-MUR::before, .tds_times .tbl-away>.tbl-team-MUR::before, .tds_times .tbl-home>.tbl-team-MUR::after, .icone-nac, .icone-nau, .tds_times .tbl-st-team>.tbl-team-NAU::before, .tds_times .tbl-away>.tbl-team-NAU::before, .tds_times .tbl-home>.tbl-team-NAU::after, .icone-ncn, .sulamericana .tbl-st-team>.tbl-team-NAP::before, .sulamericana .tbl-away>.tbl-team-NAP::before, .sulamericana .tbl-home>.tbl-team-NAP::after, .sulamericana .icone-nap, .icone-ncp, .sulamericana .tbl-st-team>.tbl-team-NPO::before, .sulamericana .tbl-away>.tbl-team-NPO::before, .sulamericana .tbl-home>.tbl-team-NPO::after, .sulamericana .icone-npo, .icone-nur, .tds_times .tbl-st-team>.tbl-team-NUR::before, .tds_times .tbl-away>.tbl-team-NUR::before, .tds_times .tbl-home>.tbl-team-NUR::after, .icone-oes, .tds_times .tbl-st-team>.tbl-team-OES::before, .tds_times .tbl-away>.tbl-team-OES::before, .tds_times .tbl-home>.tbl-team-OES::after, .icone-ohi, .sulamericana .tbl-st-team>.tbl-team-OHI::before, .sulamericana .tbl-away>.tbl-team-OHI::before, .sulamericana .tbl-home>.tbl-team-OHI::after, .icone-oli, .sulamericana .tbl-st-team>.tbl-team-OLI::before, .sulamericana .tbl-away>.tbl-team-OLI::before, .sulamericana .tbl-home>.tbl-team-OLI::after, .icone-ope, .sulamericana .tbl-st-team>.tbl-team-ORI::before, .sulamericana .tbl-away>.tbl-team-ORI::before, .sulamericana .tbl-home>.tbl-team-ORI::after, .sulamericana .icone-ori, .icone-pal, .tds_times .tbl-st-team>.tbl-team-PAL::before, .tds_times .tbl-away>.tbl-team-PAL::before, .tds_times .tbl-home>.tbl-team-PAL::after, .icone-palestino, .sulamericana .tbl-st-team>.tbl-team-PAL::before, .sulamericana .tbl-away>.tbl-team-PAL::before, .sulamericana .tbl-home>.tbl-team-PAL::after, .sulamericana .icone-pal, .sulamericana .tds_times .tbl-st-team>.tbl-team-PAL::before, .sulamericana .tds_times .tbl-away>.tbl-team-PAL::before, .sulamericana .tds_times .tbl-home>.tbl-team-PAL::after, .icone-par, .tds_times .tbl-st-team>.tbl-team-PAR::before, .tds_times .tbl-away>.tbl-team-PAR::before, .tds_times .tbl-home>.tbl-team-PAR::after, .icone-pat, .sulamericana .tbl-st-team>.tbl-team-PAT::before, .sulamericana .tbl-away>.tbl-team-PAT::before, .sulamericana .tbl-home>.tbl-team-PAT::after, .icone-pay, .tds_times .tbl-st-team>.tbl-team-PAY::before, .tds_times .tbl-away>.tbl-team-PAY::before, .tds_times .tbl-home>.tbl-team-PAY::after, .icone-pin, .icone-pinheiro, .icone-play-hino, .icone-play, .icone-pon, .tds_times .tbl-st-team>.tbl-team-PON::before, .tds_times .tbl-away>.tbl-team-PON::before, .tds_times .tbl-home>.tbl-team-PON::after, .icone-por, .tds_times .tbl-st-team>.tbl-team-POR::before, .tds_times .tbl-away>.tbl-team-POR::before, .tds_times .tbl-home>.tbl-team-POR::after, .icone-pri, .tds_times .tbl-st-team>.tbl-team-PRI::before, .tds_times .tbl-away>.tbl-team-PRI::before, .tds_times .tbl-home>.tbl-team-PRI::after, .icone-pst, .tds_times .tbl-st-team>.tbl-team-PST::before, .tds_times .tbl-away>.tbl-team-PST::before, .tds_times .tbl-home>.tbl-team-PST::after, .icone-rac, .sulamericana .tbl-st-team>.tbl-team-RAC::before, .sulamericana .tbl-away>.tbl-team-RAC::before, .sulamericana .tbl-home>.tbl-team-RAC::after, .icone-rad, .sulamericana .tbl-st-team>.tbl-team-RNA::before, .sulamericana .tbl-away>.tbl-team-RNA::before, .sulamericana .tbl-home>.tbl-team-RNA::after, .sulamericana .icone-rna, .icone-rba, .tds_times .tbl-st-team>.tbl-team-RBA::before, .tds_times .tbl-away>.tbl-team-RBA::before, .tds_times .tbl-home>.tbl-team-RBA::after, .icone-rdn, .tds_times .tbl-st-team>.tbl-team-RDN::before, .tds_times .tbl-away>.tbl-team-RDN::before, .tds_times .tbl-home>.tbl-team-RDN::after, .icone-rem, .tds_times .tbl-st-team>.tbl-team-REM::before, .tds_times .tbl-away>.tbl-team-REM::before, .tds_times .tbl-home>.tbl-team-REM::after, .icone-riv, .tds_times .tbl-st-team>.tbl-team-RIV::before, .tds_times .tbl-away>.tbl-team-RIV::before, .tds_times .tbl-home>.tbl-team-RIV::after, .icone-saa, .tds_times .tbl-st-team>.tbl-team-SAA::before, .tds_times .tbl-away>.tbl-team-SAA::before, .tds_times .tbl-home>.tbl-team-SAA::after, .icone-sal, .tds_times .tbl-st-team>.tbl-team-SAL::before, .tds_times .tbl-away>.tbl-team-SAL::before, .tds_times .tbl-home>.tbl-team-SAL::after, .icone-sam, .tds_times .tbl-st-team>.tbl-team-SAM::before, .tds_times .tbl-away>.tbl-team-SAM::before, .tds_times .tbl-home>.tbl-team-SAM::after, .icone-san, .tds_times .tbl-st-team>.tbl-team-SAN::before, .tds_times .tbl-away>.tbl-team-SAN::before, .tds_times .tbl-home>.tbl-team-SAN::after, .icone-sem-escudo, .tds_times .tbl-st-team>span::before, .tds_times .tbl-away>span::before, .tds_times .tbl-home>span::after, .icone-ser, .tds_times .tbl-st-team>.tbl-team-SER::before, .tds_times .tbl-away>.tbl-team-SER::before, .tds_times .tbl-home>.tbl-team-SER::after, .icone-set, .tds_times .tbl-st-team>.tbl-team-SET::before, .tds_times .tbl-away>.tbl-team-SET::before, .tds_times .tbl-home>.tbl-team-SET::after, .icone-sfe, .sulamericana .tbl-st-team>.tbl-team-SFE::before, .sulamericana .tbl-away>.tbl-team-SFE::before, .sulamericana .tbl-home>.tbl-team-SFE::after, .icone-sfr, .tds_times .tbl-st-team>.tbl-team-SFR::before, .tds_times .tbl-away>.tbl-team-SFR::before, .tds_times .tbl-home>.tbl-team-SFR::after, .icone-shop-m, .icone-shop, .icone-sin, .tds_times .tbl-st-team>.tbl-team-SIN::before, .tds_times .tbl-away>.tbl-team-SIN::before, .tds_times .tbl-home>.tbl-team-SIN::after, .icone-sjo, .tds_times .tbl-st-team>.tbl-team-SJO::before, .tds_times .tbl-away>.tbl-team-SJO::before, .tds_times .tbl-home>.tbl-team-SJO::after, .icone-socio-contribuinte-g, .icone-socio-contribuinte, .icone-socio-cooperado-g, .icone-socio-cooperado, .icone-socio-mundo-g, .icone-socio-mundo, .icone-socio-torcedor-g, .icone-socio-torcedor, .icone-sol, .sulamericana .tbl-st-team>.tbl-team-SOL::before, .sulamericana .tbl-away>.tbl-team-SOL::before, .sulamericana .tbl-home>.tbl-team-SOL::after, .icone-spl, .tds_times .tbl-st-team>.tbl-team-SPL::before, .tds_times .tbl-away>.tbl-team-SPL::before, .tds_times .tbl-home>.tbl-team-SPL::after, .icone-spo, .tds_times .tbl-st-team>.tbl-team-SPO::before, .tds_times .tbl-away>.tbl-team-SPO::before, .tds_times .tbl-home>.tbl-team-SPO::after, .icone-sportivo-luqueno, .sulamericana .tbl-st-team>.tbl-team-LUQ::before, .sulamericana .tbl-away>.tbl-team-LUQ::before, .sulamericana .tbl-home>.tbl-team-LUQ::after, .sulamericana .icone-luq, .icone-sra, .tds_times .tbl-st-team>.tbl-team-SRA::before, .tds_times .tbl-away>.tbl-team-SRA::before, .tds_times .tbl-home>.tbl-team-SRA::after, .icone-srr, .tds_times .tbl-st-team>.tbl-team-SRR::before, .tds_times .tbl-away>.tbl-team-SRR::before, .tds_times .tbl-home>.tbl-team-SRR::after, .icone-star-p, .icone-star-s, .icone-star, .icone-stc, .tds_times .tbl-st-team>.tbl-team-STC::before, .tds_times .tbl-away>.tbl-team-STC::before, .tds_times .tbl-home>.tbl-team-STC::after, .icone-teste, .icone-tfc, .tds_times .tbl-st-team>.tbl-team-TFC::before, .tds_times .tbl-away>.tbl-team-TFC::before, .tds_times .tbl-home>.tbl-team-TFC::after, .icone-tlm, .sulamericana .tbl-st-team>.tbl-team-DTO::before, .sulamericana .tbl-away>.tbl-team-DTO::before, .sulamericana .tbl-home>.tbl-team-DTO::after, .sulamericana .icone-dto, .icone-tub, .icone-tuc, .sulamericana .tbl-st-team>.tbl-team-ATC::before, .sulamericana .tbl-away>.tbl-team-ATC::before, .sulamericana .tbl-home>.tbl-team-ATC::after, .sulamericana .icone-atc, .icone-tv, .chape_tv .h1 span.tv, .icone-tw, .icone-twitter-chape, .icone-twitter-f, .icone-twitter, .icone-unc, .tds_times .tbl-st-team>.tbl-team-UNC::before, .tds_times .tbl-away>.tbl-team-UNC::before, .tds_times .tbl-home>.tbl-team-UNC::after, .icone-universidad-chile, .sulamericana .tbl-st-team>.tbl-team-UNC::before, .sulamericana .tbl-away>.tbl-team-UNC::before, .sulamericana .tbl-home>.tbl-team-UNC::after, .sulamericana .icone-unc, .sulamericana .tds_times .tbl-st-team>.tbl-team-UNC::before, .sulamericana .tds_times .tbl-away>.tbl-team-UNC::before, .sulamericana .tds_times .tbl-home>.tbl-team-UNC::after, .icone-unq, .sulamericana .tbl-st-team>.tbl-team-UCE::before, .sulamericana .tbl-away>.tbl-team-UCE::before, .sulamericana .tbl-home>.tbl-team-UCE::after, .sulamericana .icone-uce, .icone-urd, .tds_times .tbl-st-team>.tbl-team-URD::before, .tds_times .tbl-away>.tbl-team-URD::before, .tds_times .tbl-home>.tbl-team-URD::after, .icone-urt, .tds_times .tbl-st-team>.tbl-team-URT::before, .tds_times .tbl-away>.tbl-team-URT::before, .tds_times .tbl-home>.tbl-team-URT::after, .icone-vas, .tds_times .tbl-st-team>.tbl-team-VAS::before, .tds_times .tbl-away>.tbl-team-VAS::before, .tds_times .tbl-home>.tbl-team-VAS::after, .icone-vic, .tds_times .tbl-st-team>.tbl-team-VIC::before, .tds_times .tbl-away>.tbl-team-VIC::before, .tds_times .tbl-home>.tbl-team-VIC::after, .icone-vil, .tds_times .tbl-st-team>.tbl-team-VIL::before, .tds_times .tbl-away>.tbl-team-VIL::before, .tds_times .tbl-home>.tbl-team-VIL::after, .icone-vit, .tds_times .tbl-st-team>.tbl-team-VIT::before, .tds_times .tbl-away>.tbl-team-VIT::before, .tds_times .tbl-home>.tbl-team-VIT::after, .icone-vol, .tds_times .tbl-st-team>.tbl-team-VOL::before, .tds_times .tbl-away>.tbl-team-VOL::before, .tds_times .tbl-home>.tbl-team-VOL::after, .icone-youtube-chape, .icone-youtube-f, .icone-youtube, .icone-ypi, .tds_times .tbl-st-team>.tbl-team-YPI::before, .tds_times .tbl-away>.tbl-team-YPI::before, .tds_times .tbl-home>.tbl-team-YPI::after, .icone-zul, .tds_times .tbl-st-team>.tbl-team-ZUL::before, .tds_times .tbl-away>.tbl-team-ZUL::before, .tds_times .tbl-home>.tbl-team-ZUL::after, .icone-user {
+	display: inline-block
+}
